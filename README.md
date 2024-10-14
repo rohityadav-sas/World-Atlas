@@ -78,6 +78,8 @@ Explore the world, one country at a time! This React app provides detailed infor
 
 - **React Hook Form**: To manage form data and validations.
 
+- **React Transition Group**: To handle animations for entering and exiting elements in React.
+
 
 ## License
 
