@@ -4,13 +4,20 @@ Explore the world, one country at a time! This React app provides detailed infor
 
 ## Table of Contents
 
-- [Features](#features)
 - [Preview](#preview)
+- [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [License](#license)
 - [Contributing](#contributing)
+
+
+## Preview
+ <div style="display:flex; justify-content:space-between">
+  <img src="./public/preview2.png?raw=true" height="100%" width="48%"/>
+  <img src="./public/preview1.png?raw=true" height="100%" width="48%"/> 
+ </div>
 
 ## Features
 

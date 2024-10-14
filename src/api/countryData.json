@@ -190,5 +190,62 @@
             "日本"
         ],
         "timezone": "UTC+09:00"
+    },
+    {
+        "id": 11,
+        "countryName": "Bangladesh",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+        "capital": "Dhaka",
+        "population": 170000000,
+        "interestingFact": "Bangladesh is home to the Sundarbans, the largest mangrove forest in the world and a UNESCO World Heritage site.",
+        "languages": [
+            "Bengali"
+        ],
+        "currencies": [
+            "Bangladeshi Taka (BDT)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "বাংলাদেশ"
+        ],
+        "timezone": "UTC+06:00"
+    },
+    {
+        "id": 12,
+        "countryName": "China",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+        "capital": "Beijing",
+        "population": 1412000000,
+        "interestingFact": "China is home to the Great Wall, the longest wall in the world, stretching over 13,000 miles.",
+        "languages": [
+            "Mandarin Chinese"
+        ],
+        "currencies": [
+            "Chinese Yuan (CNY)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "中国"
+        ],
+        "timezone": "UTC+08:00"
+    },
+    {
+        "id": 13,
+        "countryName": "Indonesia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+        "capital": "Jakarta",
+        "population": 276000000,
+        "interestingFact": "Indonesia is the world's largest island country, consisting of more than 17,000 islands.",
+        "languages": [
+            "Indonesian"
+        ],
+        "currencies": [
+            "Indonesian Rupiah (IDR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Indonesia"
+        ],
+        "timezone": "UTC+07:00 to UTC+09:00"
     }
 ]
