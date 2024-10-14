@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "countryName": "Nepal",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+        "capital": "Kathmandu",
+        "population": 30200000,
+        "interestingFact": "Nepal is home to Mount Everest, the highest point on Earth.",
+        "languages": [
+            "Nepali"
+        ],
+        "currencies": [
+            "Nepalese Rupee (NPR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "नेपाल"
+        ],
+        "timezone": "UTC+05:45"
+    },
+    {
+        "id": 2,
+        "countryName": "Australia",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/b/b9/Flag_of_Australia.svg",
+        "capital": "Canberra",
+        "population": 26000000,
+        "interestingFact": "Australia is the only continent without an active volcano.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Australian Dollar (AUD)"
+        ],
+        "continent": "Australia",
+        "nativeNames": [
+            "Australia"
+        ],
+        "timezone": "UTC+10:00"
+    },
+    {
+        "id": 3,
+        "countryName": "Egypt",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+        "capital": "Cairo",
+        "population": 109300000,
+        "interestingFact": "Egypt is home to the last remaining of the Seven Wonders of the Ancient World: the Great Pyramid of Giza.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Egyptian Pound (EGP)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "مصر"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 4,
+        "countryName": "Brazil",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+        "capital": "Brasilia",
+        "population": 214000000,
+        "interestingFact": "Brazil is the largest coffee producer in the world.",
+        "languages": [
+            "Portuguese"
+        ],
+        "currencies": [
+            "Brazilian Real (BRL)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Brasil"
+        ],
+        "timezone": "UTC-03:00"
+    },
+    {
+        "id": 5,
+        "countryName": "Canada",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+        "capital": "Ottawa",
+        "population": 38600000,
+        "interestingFact": "Canada has the longest coastline of any country in the world.",
+        "languages": [
+            "English",
+            "French"
+        ],
+        "currencies": [
+            "Canadian Dollar (CAD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Canada"
+        ],
+        "timezone": "UTC-05:00 to UTC-08:00"
+    },
+    {
+        "id": 6,
+        "countryName": "India",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+        "capital": "New Delhi",
+        "population": 1403000000,
+        "interestingFact": "India is the world's largest democracy.",
+        "languages": [
+            "Hindi",
+            "English"
+        ],
+        "currencies": [
+            "Indian Rupee (INR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "भारत"
+        ],
+        "timezone": "UTC+05:30"
+    },
+    {
+        "id": 7,
+        "countryName": "Germany",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+        "capital": "Berlin",
+        "population": 83200000,
+        "interestingFact": "Germany is known for having the world’s first highway, the Autobahn.",
+        "languages": [
+            "German"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Deutschland"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 8,
+        "countryName": "Mexico",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+        "capital": "Mexico City",
+        "population": 128900000,
+        "interestingFact": "Mexico City is sinking at a rate of about 10 inches per year due to the soft clay soil.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Mexican Peso (MXN)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "México"
+        ],
+        "timezone": "UTC-06:00"
+    },
+    {
+        "id": 9,
+        "countryName": "Norway",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+        "capital": "Oslo",
+        "population": 5400000,
+        "interestingFact": "Norway is known for its stunning fjords, which were carved out by glaciers.",
+        "languages": [
+            "Norwegian"
+        ],
+        "currencies": [
+            "Norwegian Krone (NOK)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Norge"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 10,
+        "countryName": "Japan",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+        "capital": "Tokyo",
+        "population": 125800000,
+        "interestingFact": "Japan is home to the world's oldest company, Kongo Gumi, which was founded in 578 AD.",
+        "languages": [
+            "Japanese"
+        ],
+        "currencies": [
+            "Japanese Yen (JPY)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "日本"
+        ],
+        "timezone": "UTC+09:00"
+    }
+]

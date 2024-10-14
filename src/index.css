@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+   .p-clamp-lg {
+      padding-inline: clamp(3rem, 15vw - 5rem, 16rem);
+   }
+
+   .p-clamp-sm {
+      padding-inline: clamp(3rem, 15vw - 1rem, 2rem);
+   }
+
+   .pt-clamp{
+      padding-top: clamp(1rem, 10vw + 1rem, 2rem);
+   }
+
+   .img-clamp {
+      width: clamp(300px, 30vw, 400px);
+   }
+}
+
+.active {
+   @apply text-primary-10;
+}
+
+.active::after {
+   width: 100% !important;
+   left: 0 !important;
+}
+
+.inactive {
+   @apply relative after:absolute after:content-[''] after:ml-0.5 after:-bottom-2 after:w-0 after:h-[15%] after:left-1/2 after:rounded-2xl after:bg-primary-10 after:transition-all after:duration-300 after:ease-in-out after:origin-center;
+}
+
+::-webkit-scrollbar {
+   width: 10px;
+ }
+ 
+ ::-webkit-scrollbar-track {
+   background: #1a1a1a; 
+ }
+  
+ ::-webkit-scrollbar-thumb {
+   background: linear-gradient(#2c2c2c, #3a3a3a, #4a4a4a);
+   border-radius: 5px;
+ }
+ 
+ ::-webkit-scrollbar-thumb:hover {
+   background: linear-gradient(#3c3c3c, #4a4a4a, #5a5a5a);
+ }
