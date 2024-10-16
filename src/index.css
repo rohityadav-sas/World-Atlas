@@ -8,11 +8,11 @@
    }
 
    .p-clamp-sm {
-      padding-inline: clamp(3rem, 15vw - 1rem, 2rem);
+      padding-inline: clamp(2rem, 15vw - 1rem, 2rem);
    }
 
    .pt-clamp{
-      padding-top: clamp(1rem, 10vw + 1rem, 2rem);
+      padding-top: clamp(1rem, 10vw + 1rem, 1.5rem);
    }
 
    .img-clamp {
@@ -39,6 +39,9 @@
  
  ::-webkit-scrollbar-track {
    background: #1a1a1a; 
+   margin-top: 1rem;
+   margin-bottom: 1rem;
+   border-radius: 5px;
  }
   
  ::-webkit-scrollbar-thumb {

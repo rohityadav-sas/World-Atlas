@@ -1,13 +1,11 @@
 import ContactComponent from "../../components/ContactComponent"
-import { IoLocationOutline } from "react-icons/io5";
-import { IoCall } from "react-icons/io5";
-import { LuMailPlus } from "react-icons/lu";
-import { Link } from "react-router-dom";
+import { Link } from "react-router-dom"
+import React from 'react'
+import { IoLocationOutline, IoCall, LuMailPlus } from '../../utils/icons'
 
-
-export default function Footer() {
+const Footer = () => {
     return (
-        <footer className="bg-surface-0 flex justify-between text-white px-2 py-4 sm:p-6 sm:px-20 w-full sm:p-clamp-sm lg:p-clamp-lg">
+        <footer className="bg-surface-0 flex justify-between text-white px-2 py-4 sm:p-4 sm:px-20 w-full sm:p-clamp-sm lg:p-clamp-lg">
             <Link to="https://www.google.com/maps?q=lalitpur" target="_blank">
                 <ContactComponent label="Find us" info="Lalitpur, Kathmandu" Icon={IoLocationOutline} />
             </Link>
@@ -20,3 +18,5 @@ export default function Footer() {
         </footer>
     )
 }
+
+export default React.memo(Footer);

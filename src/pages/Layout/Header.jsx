@@ -1,41 +1,16 @@
-import { useState, useEffect, useRef } from 'react';
-import { NavLink } from 'react-router-dom';
-import { MdHome } from "react-icons/md";
-import { MdOutlinePlace } from "react-icons/md";
-import { IoMdCall } from "react-icons/io";
-import { SiGoogleearth } from "react-icons/si";
-import { GiHamburgerMenu } from "react-icons/gi";
+import React, { useState, useEffect } from 'react';
+import { SiGoogleearth, GiHamburgerMenu, MdHome, MdOutlinePlace, IoMdCall } from '../../utils/icons';
+import NavItem from '../../components/NavItem';
+import { useLocation } from 'react-router-dom';
 
-export default function Header() {
+const Header = () => {
     const [isOpen, setIsOpen] = useState(false);
-    const menuRef = useRef(null);
-
-    useEffect(() => {
-        const handleClickOutside = (event) => {
-            if (menuRef.current && !menuRef.current.contains(event.target)) {
-                setIsOpen(false);
-            }
-        };
-
-        document.addEventListener('mousedown', handleClickOutside);
-        return () => {
-            document.removeEventListener('mousedown', handleClickOutside);
-        };
-    }, []);
-
-    const NavItem = ({ to, icon, children }) => (
-        <NavLink
-            to={to}
-            className={`flex items-center gap-2 text-gray-200 hover:text-gray-400 inactive`}
-            onClick={() => setIsOpen(false)}
-        >
-            {icon}
-            <span>{children}</span>
-        </NavLink>
-    );
+    const location = useLocation();
+    useEffect(() => setIsOpen(false), [location.pathname]);
 
     return (
         <header className="bg-surface-0 py-6 font-semibold px-4 p-clamp-sm lg:p-clamp-lg flex justify-between items-center text-gray-200">
+            {/* Logo and Title */}
             <div className="flex gap-4 items-center text-2xl">
                 <SiGoogleearth className="text-4xl text-primary-30 animate-glow rounded-full" />
                 <span>WorldAtlas</span>
@@ -43,7 +18,7 @@ export default function Header() {
 
             {/* Hamburger Menu for mobile */}
             <button
-                className="text-4xl cursor-pointer transition-all lg:hidden"
+                className="text-4xl transition-all lg:hidden"
                 style={{ transform: isOpen ? 'rotate(180deg)' : 'rotate(0deg)' }}
                 onClick={() => setIsOpen(!isOpen)}
                 aria-label="Toggle menu"
@@ -51,9 +26,8 @@ export default function Header() {
                 <GiHamburgerMenu />
             </button>
 
-            {/* Mobile Menu (Sheet) with transition */}
+            {/* Mobile Menu */}
             <div
-                ref={menuRef}
                 className={`fixed inset-y-0 right-0 bg-surface-20 p-10 flex flex-col gap-6 z-50 transition-all duration-500 ${isOpen ? 'translate-x-0 opacity-100' : 'translate-x-full opacity-0'
                     }`}
                 style={{ pointerEvents: isOpen ? 'auto' : 'none' }}
@@ -74,3 +48,5 @@ export default function Header() {
         </header>
     );
 }
+
+export default React.memo(Header);

@@ -9,13 +9,13 @@ export default function Contact() {
     };
 
     return (
-        <div className="bg-gray-900 flex items-center justify-center p-4 w-full">
-            <div className="max-w-lg w-full bg-gray-800 px-8 py-7 rounded-xl shadow-lg ">
+        <div className="bg-gray-900 flex sm:items-center justify-center p-4 w-full h-full overflow-auto">
+            <div className="max-w-lg w-full bg-gray-800 px-8 py-7 rounded-xl shadow-lg flex-grow h-fit">
                 <div className="text-center">
-                    <h2 className="text-3xl font-extrabold text-white">Contact Us</h2>
-                    <p className="mt-2 text-sm text-gray-400">We'd love to hear from you!</p>
+                    <h2 className="text-2xl md:text-3xl font-extrabold text-white">Contact Us</h2>
+                    <p className="mt-2 text-xs md:text-sm text-gray-400">We'd love to hear from you!</p>
                 </div>
-                <form className="mt-8 space-y-6" onSubmit={handleSubmit(onSubmit)}>
+                <form className="mt-2 text-sm space-y-6" onSubmit={handleSubmit(onSubmit)}>
                     <div className="space-y-4">
                         <div>
                             <Input

@@ -4,8 +4,8 @@ import { Link } from "react-router-dom";
 
 export default function Homepage() {
     return (
-        <div className="p-clamp-sm w-full lg:p-clamp-lg flex flex-col md:flex-row justify-between items-center">
-            <div className="flex leading-6 flex-col gap-6 pt-clamp">
+        <div className="p-clamp-sm w-full lg:p-clamp-lg flex flex-col md:flex-row justify-evenly items-center">
+            <div className="flex leading-6 flex-col gap-4 pt-clamp">
                 <h1 className="font-mono font-bold text-2xl">Explore the World, One Country at a Time</h1>
                 <p> Discover the history, culture, and beauty of every nation. <br />
                     Sort, search and filter through countries to find the details you need.</p>

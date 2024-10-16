@@ -1,48 +1,49 @@
-import CountryCard from "../../components/CountryCard";
-import countriesData from '../../api/countryData.json';
-import Search from "../../components/Search";
-import { useState, useEffect } from "react";
+import React, { useState, useCallback } from "react";
 import { TransitionGroup, CSSTransition } from 'react-transition-group';
+import CountryCard from "../../components/CountryCard";
+import Search from "../../components/Search";
+import { useFilteredCountries } from "../../hooks/useFilteredCountries";
+import { useInView } from 'react-intersection-observer';
 
 export default function About() {
     const [search, setSearch] = useState('');
     const [filterContinent, setFilterContinent] = useState('All');
-    const [filteredCountries, setFilteredCountries] = useState(countriesData);
+    const [page, setPage] = useState(1);
+    const itemsPerPage = 8;
 
-    useEffect(() => {
-        let updatedCountries = countriesData;
+    const filteredCountries = useFilteredCountries(search, filterContinent);
 
-        // Filter by continent if not "All"
-        if (filterContinent !== 'All') {
-            updatedCountries = updatedCountries.filter(country => country.continent === filterContinent);
+    const visibleCountries = filteredCountries.slice(0, page * itemsPerPage);
+
+    const { ref: loadMoreRef, inView } = useInView({ threshold: 1 });
+
+    const loadMoreCountries = useCallback(() => {
+        if (inView && visibleCountries.length < filteredCountries.length) {
+            setPage((prevPage) => prevPage + 1);
         }
+    }, [inView, visibleCountries.length]);
 
-        // Apply search filter
-        if (search) {
-            updatedCountries = updatedCountries.filter(country =>
-                country.countryName.toLowerCase().includes(search.toLowerCase())
-            );
-        }
-
-        setFilteredCountries(updatedCountries);
-    }, [search, filterContinent]);
+    React.useEffect(() => {
+        loadMoreCountries();
+    }, [inView]);
 
     return (
-        <div className="flex w-full flex-col relative p-clamp-sm lg:p-clamp-lg pt-clamp gap-6">
+        <div className="flex w-full flex-col relative sm:p-clamp-sm pt-clamp gap-6">
             <Search
                 value={search}
                 onChange={setSearch}
                 filterContinent={filterContinent}
                 onFilterChange={setFilterContinent}
             />
-            <div className="p-4 flex-grow">
-                <TransitionGroup className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                    {filteredCountries.map(country => (
+            <div className="px-10 py-3 flex-grow overflow-y-auto">
+                <TransitionGroup className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                    {visibleCountries.map(country => (
                         <CSSTransition key={country.id} timeout={300} classNames="fade">
                             <CountryCard country={country} />
                         </CSSTransition>
                     ))}
                 </TransitionGroup>
+                <div ref={loadMoreRef} style={{ height: '20px' }} />
             </div>
         </div>
     );

@@ -247,5 +247,3581 @@
             "Indonesia"
         ],
         "timezone": "UTC+07:00 to UTC+09:00"
+    },
+    {
+        "id": 14,
+        "countryName": "Italy",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+        "capital": "Rome",
+        "population": 60360000,
+        "interestingFact": "Italy is home to the largest number of UNESCO World Heritage Sites in the world.",
+        "languages": [
+            "Italian"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Italia"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 15,
+        "countryName": "Russia",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+        "capital": "Moscow",
+        "population": 145900000,
+        "interestingFact": "Russia is home to the world's deepest lake, Lake Baikal, which reaches a depth of over 5,300 feet.",
+        "languages": [
+            "Russian"
+        ],
+        "currencies": [
+            "Russian Ruble (RUB)"
+        ],
+        "continent": "Europe/Asia",
+        "nativeNames": [
+            "Россия"
+        ],
+        "timezone": "UTC+02:00 to UTC+12:00"
+    },
+    {
+        "id": 16,
+        "countryName": "South Africa",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+        "capital": "Pretoria, Bloemfontein, Cape Town",
+        "population": 59300000,
+        "interestingFact": "South Africa is home to the world's largest diamond, the Cullinan Diamond, which weighed over 3,100 carats.",
+        "languages": [
+            "Afrikaans",
+            "English",
+            "Zulu",
+            "Xhosa"
+        ],
+        "currencies": [
+            "South African Rand (ZAR)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "South Africa"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 17,
+        "countryName": "United Kingdom",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg",
+        "capital": "London",
+        "population": 66650000,
+        "interestingFact": "The United Kingdom is made up of four countries: England, Scotland, Wales, and Northern Ireland.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "British Pound (GBP)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "United Kingdom"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 18,
+        "countryName": "United States",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg",
+        "capital": "Washington, D.C.",
+        "population": 331000000,
+        "interestingFact": "The United States is home to the world's oldest national park, Yellowstone National Park, established in 1872.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "United States Dollar (USD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "United States"
+        ],
+        "timezone": "UTC-04:00 to UTC-10:00"
+    },
+    {
+        "id": 19,
+        "countryName": "France",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+        "capital": "Paris",
+        "population": 67060000,
+        "interestingFact": "France is the most visited country in the world, with over 89 million tourists each year.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "France"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 20,
+        "countryName": "Spain",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg",
+        "capital": "Madrid",
+        "population": 47000000,
+        "interestingFact": "Spain is home to the oldest restaurant in the world, Restaurante Botín, which opened in 1725.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "España"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 21,
+        "countryName": "Argentina",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+        "capital": "Buenos Aires",
+        "population": 45190000,
+        "interestingFact": "Argentina is home to the world's widest avenue, Avenida 9 de Julio, which is 460 feet wide.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Argentine Peso (ARS)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Argentina"
+        ],
+        "timezone": "UTC-03:00"
+    },
+    {
+        "id": 22,
+        "countryName": "South Korea",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+        "capital": "Seoul",
+        "population": 51700000,
+        "interestingFact": "South Korea is home to the world's fastest internet speeds, with an average connection speed of 28.6 Mbps.",
+        "languages": [
+            "Korean"
+        ],
+        "currencies": [
+            "South Korean Won (KRW)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "대한민국"
+        ],
+        "timezone": "UTC+09:00"
+    },
+    {
+        "id": 23,
+        "countryName": "Saudi Arabia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+        "capital": "Riyadh",
+        "population": 34810000,
+        "interestingFact": "Saudi Arabia is home to the world's largest continuous sand desert, the Rub' al Khali.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Saudi Riyal (SAR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "السعودية"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 24,
+        "countryName": "Turkey",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+        "capital": "Ankara",
+        "population": 84340000,
+        "interestingFact": "Turkey is home to the world's oldest known human settlement, Çatalhöyük, which dates back to around 7500 BC.",
+        "languages": [
+            "Turkish"
+        ],
+        "currencies": [
+            "Turkish Lira (TRY)"
+        ],
+        "continent": "Asia/Europe",
+        "nativeNames": [
+            "Türkiye"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 25,
+        "countryName": "Vietnam",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+        "capital": "Hanoi",
+        "population": 96490000,
+        "interestingFact": "Vietnam is the world's second largest coffee producer, after Brazil.",
+        "languages": [
+            "Vietnamese"
+        ],
+        "currencies": [
+            "Vietnamese Dong (VND)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Việt Nam"
+        ],
+        "timezone": "UTC+07:00"
+    },
+    {
+        "id": 26,
+        "countryName": "Thailand",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+        "capital": "Bangkok",
+        "population": 69430000,
+        "interestingFact": "Thailand is home to the world's largest gold Buddha statue, the Golden Buddha, which weighs over 5 tons.",
+        "languages": [
+            "Thai"
+        ],
+        "currencies": [
+            "Thai Baht (THB)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "ประเทศไทย"
+        ],
+        "timezone": "UTC+07:00"
+    },
+    {
+        "id": 27,
+        "countryName": "Greece",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+        "capital": "Athens",
+        "population": 10740000,
+        "interestingFact": "Greece is home to the world's oldest known city, Knossos, which dates back to around 7000 BC.",
+        "languages": [
+            "Greek"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Ελλάδα"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 28,
+        "countryName": "Philippines",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+        "capital": "Manila",
+        "population": 109600000,
+        "interestingFact": "The Philippines is home to the world's longest snake, the reticulated python, which can reach lengths of over 30 feet.",
+        "languages": [
+            "Filipino",
+            "English"
+        ],
+        "currencies": [
+            "Philippine Peso (PHP)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Pilipinas"
+        ],
+        "timezone": "UTC+08:00"
+    },
+    {
+        "id": 29,
+        "countryName": "Malaysia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+        "capital": "Kuala Lumpur",
+        "population": 32730000,
+        "interestingFact": "Malaysia is home to the world's largest flower, the Rafflesia arnoldii, which can grow up to 3 feet in diameter.",
+        "languages": [
+            "Malay"
+        ],
+        "currencies": [
+            "Malaysian Ringgit (MYR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Malaysia"
+        ],
+        "timezone": "UTC+08:00"
+    },
+    {
+        "id": 30,
+        "countryName": "Singapore",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+        "capital": "Singapore",
+        "population": 5850000,
+        "interestingFact": "Singapore is home to the world's largest rooftop infinity pool, located at the Marina Bay Sands hotel.",
+        "languages": [
+            "English",
+            "Malay",
+            "Mandarin",
+            "Tamil"
+        ],
+        "currencies": [
+            "Singapore Dollar (SGD)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Singapore"
+        ],
+        "timezone": "UTC+08:00"
+    },
+    {
+        "id": 31,
+        "countryName": "New Zealand",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+        "capital": "Wellington",
+        "population": 5000000,
+        "interestingFact": "New Zealand is home to the world's only flightless parrot, the kakapo.",
+        "languages": [
+            "English",
+            "Māori"
+        ],
+        "currencies": [
+            "New Zealand Dollar (NZD)"
+        ],
+        "continent": "Australia",
+        "nativeNames": [
+            "New Zealand"
+        ],
+        "timezone": "UTC+12:00"
+    },
+    {
+        "id": 32,
+        "countryName": "Pakistan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+        "capital": "Islamabad",
+        "population": 220900000,
+        "interestingFact": "Pakistan is home to the world's second highest mountain, K2, which reaches a height of over 28,000 feet.",
+        "languages": [
+            "Urdu",
+            "English"
+        ],
+        "currencies": [
+            "Pakistani Rupee (PKR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "پاکستان"
+        ],
+        "timezone": "UTC+05:00"
+    },
+    {
+        "id": 33,
+        "countryName": "Switzerland",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+        "capital": "Bern",
+        "population": 8655000,
+        "interestingFact": "Switzerland is home to the world's longest railway tunnel, the Gotthard Base Tunnel, which stretches over 35 miles.",
+        "languages": [
+            "German",
+            "French",
+            "Italian",
+            "Romansh"
+        ],
+        "currencies": [
+            "Swiss Franc (CHF)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Schweiz",
+            "Suisse",
+            "Svizzera",
+            "Svizra"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 34,
+        "countryName": "Sweden",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+        "capital": "Stockholm",
+        "population": 10230000,
+        "interestingFact": "Sweden is home to the world's first ice hotel, Icehotel, which is rebuilt every year using ice from the Torne River.",
+        "languages": [
+            "Swedish"
+        ],
+        "currencies": [
+            "Swedish Krona (SEK)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Sverige"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 35,
+        "countryName": "Ukraine",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+        "capital": "Kyiv",
+        "population": 41800000,
+        "interestingFact": "Ukraine is home to the world's deepest metro station, Arsenalna, which is located 346 feet underground.",
+        "languages": [
+            "Ukrainian"
+        ],
+        "currencies": [
+            "Ukrainian Hryvnia (UAH)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Україна"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 36,
+        "countryName": "Netherlands",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+        "capital": "Amsterdam",
+        "population": 17400000,
+        "interestingFact": "The Netherlands is home to the world's largest flower garden, Keukenhof, which covers over 79 acres.",
+        "languages": [
+            "Dutch"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Nederland"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 37,
+        "countryName": "Poland",
+        "flag": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+        "capital": "Warsaw",
+        "population": 38380000,
+        "interestingFact": "Poland is home to the world's largest castle by land area, Malbork Castle, which covers over 52 acres.",
+        "languages": [
+            "Polish"
+        ],
+        "currencies": [
+            "Polish Zloty (PLN)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Polska"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 38,
+        "countryName": "Belgium",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+        "capital": "Brussels",
+        "population": 11590000,
+        "interestingFact": "Belgium is home to the world's largest chocolate factory, Barry Callebaut, which produces over 1.8 million tons of chocolate each year.",
+        "languages": [
+            "Dutch",
+            "French",
+            "German"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "België",
+            "Belgique",
+            "Belgien"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 39,
+        "countryName": "Austria",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+        "capital": "Vienna",
+        "population": 8913000,
+        "interestingFact": "Austria is home to the world's oldest zoo, Tiergarten Schönbrunn, which was founded in 1752.",
+        "languages": [
+            "German"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Österreich"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 40,
+        "countryName": "Portugal",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+        "capital": "Lisbon",
+        "population": 10280000,
+        "interestingFact": "Portugal is home to the world's oldest bookstore, Livraria Bertrand, which opened in 1732.",
+        "languages": [
+            "Portuguese"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Portugal"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 41,
+        "countryName": "Czech Republic",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+        "capital": "Prague",
+        "population": 10700000,
+        "interestingFact": "The Czech Republic is home to the world's largest castle by area, Prague Castle, which covers over 18 acres.",
+        "languages": [
+            "Czech"
+        ],
+        "currencies": [
+            "Czech Koruna (CZK)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Česko"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 42,
+        "countryName": "Denmark",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+        "capital": "Copenhagen",
+        "population": 5792000,
+        "interestingFact": "Denmark is home to the world's oldest monarchy, with a history dating back over 1,000 years.",
+        "languages": [
+            "Danish"
+        ],
+        "currencies": [
+            "Danish Krone (DKK)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Danmark"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 43,
+        "countryName": "Finland",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+        "capital": "Helsinki",
+        "population": 5540000,
+        "interestingFact": "Finland is home to the world's largest archipelago, the Finnish Archipelago Sea, which consists of over 40,000 islands.",
+        "languages": [
+            "Finnish",
+            "Swedish"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Suomi",
+            "Finland"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 44,
+        "countryName": "Ireland",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+        "capital": "Dublin",
+        "population": 4977000,
+        "interestingFact": "Ireland is home to the world's oldest pub, Sean's Bar, which has been in operation since 900 AD.",
+        "languages": [
+            "Irish",
+            "English"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Éire",
+            "Ireland"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 45,
+        "countryName": "Romania",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+        "capital": "Bucharest",
+        "population": 19240000,
+        "interestingFact": "Romania is home to the world's heaviest building, the Palace of the Parliament, which weighs over 4 billion pounds.",
+        "languages": [
+            "Romanian"
+        ],
+        "currencies": [
+            "Romanian Leu (RON)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "România"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 46,
+        "countryName": "Slovakia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+        "capital": "Bratislava",
+        "population": 5450000,
+        "interestingFact": "Slovakia is home to the world's highest number of castles and chateaux per capita.",
+        "languages": [
+            "Slovak"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Slovensko"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 47,
+        "countryName": "Hungary",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+        "capital": "Budapest",
+        "population": 9660000,
+        "interestingFact": "Hungary is home to the world's largest thermal water cave system, the Buda Thermal Caves.",
+        "languages": [
+            "Hungarian"
+        ],
+        "currencies": [
+            "Hungarian Forint (HUF)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Magyarország"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 48,
+        "countryName": "Croatia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+        "capital": "Zagreb",
+        "population": 4105000,
+        "interestingFact": "Croatia is home to the world's smallest town, Hum, which has a population of only 17 people.",
+        "languages": [
+            "Croatian"
+        ],
+        "currencies": [
+            "Croatian Kuna (HRK)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Hrvatska"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 49,
+        "countryName": "Bulgaria",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+        "capital": "Sofia",
+        "population": 6948000,
+        "interestingFact": "Bulgaria is home to the world's oldest gold treasure, the Varna Necropolis, which dates back to around 4,500 BC.",
+        "languages": [
+            "Bulgarian"
+        ],
+        "currencies": [
+            "Bulgarian Lev (BGN)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "България"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 50,
+        "countryName": "Estonia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+        "capital": "Tallinn",
+        "population": 1326000,
+        "interestingFact": "Estonia is home to the world's first e-residency program, which allows non-residents to access Estonian services and businesses online.",
+        "languages": [
+            "Estonian"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Eesti"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 51,
+        "countryName": "Latvia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+        "capital": "Riga",
+        "population": 1886000,
+        "interestingFact": "Latvia is home to the world's widest waterfall, the Ventas Rumba, which is 820 feet wide.",
+        "languages": [
+            "Latvian"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Latvija"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 52,
+        "countryName": "Lithuania",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+        "capital": "Vilnius",
+        "population": 2722000,
+        "interestingFact": "Lithuania is home to the world's largest outdoor museum, the Hill of Crosses, which features over 100,000 crosses.",
+        "languages": [
+            "Lithuanian"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Lietuva"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 53,
+        "countryName": "Luxembourg",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+        "capital": "Luxembourg City",
+        "population": 634000,
+        "interestingFact": "Luxembourg is home to the world's only remaining grand duchy, a type of monarchy ruled by a grand duke or duchess.",
+        "languages": [
+            "Luxembourgish",
+            "French",
+            "German"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Lëtzebuerg",
+            "Luxembourg",
+            "Luxemburg"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 54,
+        "countryName": "Malta",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+        "capital": "Valletta",
+        "population": 514000,
+        "interestingFact": "Malta is home to the world's oldest free-standing structures, the megalithic temples of Ġgantija, which date back to around 3600 BC.",
+        "languages": [
+            "Maltese",
+            "English"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Malta"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 55,
+        "countryName": "Slovenia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+        "capital": "Ljubljana",
+        "population": 2078000,
+        "interestingFact": "Slovenia is home to the world's oldest vine, the Žametovka grapevine, which is over 400 years old.",
+        "languages": [
+            "Slovene"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Slovenija"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 56,
+        "countryName": "Cyprus",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+        "capital": "Nicosia",
+        "population": 1207000,
+        "interestingFact": "Cyprus is home to the world's oldest wine, with evidence of winemaking dating back over 5,000 years.",
+        "languages": [
+            "Greek",
+            "Turkish"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Κύπρος",
+            "Kıbrıs"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 57,
+        "countryName": "Andorra",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+        "capital": "Andorra la Vella",
+        "population": 77000,
+        "interestingFact": "Andorra is home to the world's oldest parliament, the General Council of Andorra, which was established in 1419.",
+        "languages": [
+            "Catalan"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Andorra"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 58,
+        "countryName": "Liechtenstein",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+        "capital": "Vaduz",
+        "population": 39000,
+        "interestingFact": "Liechtenstein is home to the world's largest producer of false teeth, Ivoclar Vivadent, which exports to over 120 countries.",
+        "languages": [
+            "German"
+        ],
+        "currencies": [
+            "Swiss Franc (CHF)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Liechtenstein"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 59,
+        "countryName": "Monaco",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+        "capital": "Monaco",
+        "population": 39000,
+        "interestingFact": "Monaco is home to the world's most densely populated country, with over 38,000 residents in less than one square mile.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Monaco"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 60,
+        "countryName": "San Marino",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+        "capital": "San Marino",
+        "population": 34000,
+        "interestingFact": "San Marino is home to the world's oldest republic, with a history dating back over 1,700 years.",
+        "languages": [
+            "Italian"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "San Marino"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 61,
+        "countryName": "Vatican City",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg",
+        "capital": "Vatican City",
+        "population": 800,
+        "interestingFact": "Vatican City is home to the world's smallest country, with an area of less than one square mile.",
+        "languages": [
+            "Italian"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Vaticano"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 62,
+        "countryName": "Afghanistan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Flag_of_Afghanistan_%282013%E2%80%932021%29.svg",
+        "capital": "Kabul",
+        "population": 38928346,
+        "interestingFact": "Afghanistan is known as the 'graveyard of empires' due to its history of resisting foreign invasions.",
+        "languages": [
+            "Pashto",
+            "Dari"
+        ],
+        "currencies": [
+            "Afghan Afghani (AFN)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "افغانستان"
+        ],
+        "timezone": "UTC+04:30"
+    },
+    {
+        "id": 63,
+        "countryName": "Algeria",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+        "capital": "Algiers",
+        "population": 43851044,
+        "interestingFact": "Algeria is the largest country in Africa by land area.",
+        "languages": [
+            "Arabic",
+            "Berber"
+        ],
+        "currencies": [
+            "Algerian Dinar (DZD)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "الجزائر"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 64,
+        "countryName": "Angola",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+        "capital": "Luanda",
+        "population": 32866272,
+        "interestingFact": "Angola is one of the largest oil producers in Africa.",
+        "languages": [
+            "Portuguese"
+        ],
+        "currencies": [
+            "Angolan Kwanza (AOA)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Angola"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 65,
+        "countryName": "Antigua and Barbuda",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+        "capital": "Saint John's",
+        "population": 97929,
+        "interestingFact": "Antigua and Barbuda is known for its 365 beaches, one for each day of the year.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "East Caribbean Dollar (XCD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Antigua and Barbuda"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 66,
+        "countryName": "Armenia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+        "capital": "Yerevan",
+        "population": 2963243,
+        "interestingFact": "Armenia was the first country to adopt Christianity as its state religion in 301 AD.",
+        "languages": [
+            "Armenian"
+        ],
+        "currencies": [
+            "Armenian Dram (AMD)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Հայաստան"
+        ],
+        "timezone": "UTC+04:00"
+    },
+    {
+        "id": 67,
+        "countryName": "Azerbaijan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+        "capital": "Baku",
+        "population": 10139177,
+        "interestingFact": "Azerbaijan is known as the 'Land of Fire' due to its natural gas reserves that cause flames to spontaneously ignite.",
+        "languages": [
+            "Azerbaijani"
+        ],
+        "currencies": [
+            "Azerbaijani Manat (AZN)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Azərbaycan"
+        ],
+        "timezone": "UTC+04:00"
+    },
+    {
+        "id": 68,
+        "countryName": "Bahrain",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+        "capital": "Manama",
+        "population": 1701575,
+        "interestingFact": "Bahrain is an archipelago of 33 islands in the Persian Gulf.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Bahraini Dinar (BHD)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "البحرين"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 69,
+        "countryName": "Barbados",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+        "capital": "Bridgetown",
+        "population": 287375,
+        "interestingFact": "Barbados is known for its beautiful beaches and vibrant culture.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Barbadian Dollar (BBD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Barbados"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 70,
+        "countryName": "Belarus",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+        "capital": "Minsk",
+        "population": 9449323,
+        "interestingFact": "Belarus is known for its vast forests and numerous lakes.",
+        "languages": [
+            "Belarusian",
+            "Russian"
+        ],
+        "currencies": [
+            "Belarusian Ruble (BYN)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Беларусь"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 71,
+        "countryName": "Belize",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+        "capital": "Belmopan",
+        "population": 397621,
+        "interestingFact": "Belize is home to the second largest barrier reef in the world.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Belize Dollar (BZD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Belize"
+        ],
+        "timezone": "UTC-06:00"
+    },
+    {
+        "id": 72,
+        "countryName": "Benin",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+        "capital": "Porto-Novo",
+        "population": 12123198,
+        "interestingFact": "Benin is the birthplace of the Vodun (Voodoo) religion.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "West African CFA franc (XOF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Bénin"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 73,
+        "countryName": "Bhutan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+        "capital": "Thimphu",
+        "population": 771608,
+        "interestingFact": "Bhutan measures its success by Gross National Happiness instead of GDP.",
+        "languages": [
+            "Dzongkha"
+        ],
+        "currencies": [
+            "Bhutanese Ngultrum (BTN)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "འབྲུག་ཡུལ་"
+        ],
+        "timezone": "UTC+06:00"
+    },
+    {
+        "id": 74,
+        "countryName": "Bolivia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
+        "capital": "Sucre",
+        "population": 11673029,
+        "interestingFact": "Bolivia has two capitals: Sucre (constitutional) and La Paz (administrative).",
+        "languages": [
+            "Spanish",
+            "Quechua",
+            "Aymara"
+        ],
+        "currencies": [
+            "Bolivian Boliviano (BOB)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Bolivia"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 75,
+        "countryName": "Bosnia and Herzegovina",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+        "capital": "Sarajevo",
+        "population": 3280819,
+        "interestingFact": "Bosnia and Herzegovina is home to the last remaining jungle in Europe, Perućica.",
+        "languages": [
+            "Bosnian",
+            "Croatian",
+            "Serbian"
+        ],
+        "currencies": [
+            "Bosnia and Herzegovina Convertible Mark (BAM)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Bosna i Hercegovina"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 76,
+        "countryName": "Botswana",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+        "capital": "Gaborone",
+        "population": 2351627,
+        "interestingFact": "Botswana is home to the Okavango Delta, one of the world's largest inland deltas.",
+        "languages": [
+            "English",
+            "Tswana"
+        ],
+        "currencies": [
+            "Botswana Pula (BWP)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Botswana"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 77,
+        "countryName": "Brunei",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+        "capital": "Bandar Seri Begawan",
+        "population": 437479,
+        "interestingFact": "Brunei is one of the richest countries in the world due to its extensive petroleum and natural gas fields.",
+        "languages": [
+            "Malay"
+        ],
+        "currencies": [
+            "Brunei Dollar (BND)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Brunei"
+        ],
+        "timezone": "UTC+08:00"
+    },
+    {
+        "id": 78,
+        "countryName": "Burkina Faso",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+        "capital": "Ouagadougou",
+        "population": 20903273,
+        "interestingFact": "Burkina Faso is known for its rich cultural heritage and hosts the largest craft market in Africa.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "West African CFA franc (XOF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Burkina Faso"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 79,
+        "countryName": "Burundi",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+        "capital": "Gitega",
+        "population": 11890784,
+        "interestingFact": "Burundi is one of the smallest countries in Africa but has one of the highest population densities.",
+        "languages": [
+            "Kirundi",
+            "French"
+        ],
+        "currencies": [
+            "Burundian Franc (BIF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Uburundi"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 80,
+        "countryName": "Cambodia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+        "capital": "Phnom Penh",
+        "population": 16718965,
+        "interestingFact": "Cambodia is home to Angkor Wat, the largest religious monument in the world.",
+        "languages": [
+            "Khmer"
+        ],
+        "currencies": [
+            "Cambodian Riel (KHR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "កម្ពុជា"
+        ],
+        "timezone": "UTC+07:00"
+    },
+    {
+        "id": 81,
+        "countryName": "Cameroon",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+        "capital": "Yaoundé",
+        "population": 26545863,
+        "interestingFact": "Cameroon is known as 'Africa in miniature' because it exhibits all major climates and vegetation of the continent.",
+        "languages": [
+            "French",
+            "English"
+        ],
+        "currencies": [
+            "Central African CFA franc (XAF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Cameroun"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 82,
+        "countryName": "Cape Verde",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+        "capital": "Praia",
+        "population": 555987,
+        "interestingFact": "Cape Verde is known for its Creole Portuguese-African culture and morna music.",
+        "languages": [
+            "Portuguese"
+        ],
+        "currencies": [
+            "Cape Verdean Escudo (CVE)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Cabo Verde"
+        ],
+        "timezone": "UTC-01:00"
+    },
+    {
+        "id": 83,
+        "countryName": "Central African Republic",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
+        "capital": "Bangui",
+        "population": 4829767,
+        "interestingFact": "The Central African Republic is one of the world's least developed countries.",
+        "languages": [
+            "French",
+            "Sango"
+        ],
+        "currencies": [
+            "Central African CFA franc (XAF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "République centrafricaine"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 84,
+        "countryName": "Chad",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+        "capital": "N'Djamena",
+        "population": 16425864,
+        "interestingFact": "Chad is named after Lake Chad, which is the second-largest wetland in Africa.",
+        "languages": [
+            "French",
+            "Arabic"
+        ],
+        "currencies": [
+            "Central African CFA franc (XAF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Tchad"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 85,
+        "countryName": "Chile",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+        "capital": "Santiago",
+        "population": 19116201,
+        "interestingFact": "Chile is home to the Atacama Desert, the driest desert in the world.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Chilean Peso (CLP)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Chile"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 86,
+        "countryName": "Colombia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+        "capital": "Bogotá",
+        "population": 50882891,
+        "interestingFact": "Colombia is the world's leading source of emeralds.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Colombian Peso (COP)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Colombia"
+        ],
+        "timezone": "UTC-05:00"
+    },
+    {
+        "id": 87,
+        "countryName": "Comoros",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+        "capital": "Moroni",
+        "population": 869601,
+        "interestingFact": "Comoros is one of the world's largest producers of ylang-ylang, an essential oil used in perfumes.",
+        "languages": [
+            "Comorian",
+            "Arabic",
+            "French"
+        ],
+        "currencies": [
+            "Comorian Franc (KMF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Komori"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 88,
+        "countryName": "Replic of the Congo",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+        "capital": "Brazzaville",
+        "population": 5518092,
+        "interestingFact": "The Congo River is the second longest river in Africa and the deepest river in the world.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "Central African CFA franc (XAF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Congo"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 89,
+        "countryName": "Costa Rica",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+        "capital": "San José",
+        "population": 5094118,
+        "interestingFact": "Costa Rica is known for its biodiversity, with over 500,000 species of wildlife.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Costa Rican Colón (CRC)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Costa Rica"
+        ],
+        "timezone": "UTC-06:00"
+    },
+    {
+        "id": 90,
+        "countryName": "Cuba",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+        "capital": "Havana",
+        "population": 11326616,
+        "interestingFact": "Cuba is known for its classic cars, which are a result of the U.S. embargo that began in the 1960s.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Cuban Peso (CUP)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Cuba"
+        ],
+        "timezone": "UTC-05:00"
+    },
+    {
+        "id": 91,
+        "countryName": "Djibouti",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+        "capital": "Djibouti",
+        "population": 988000,
+        "interestingFact": "Djibouti is home to Lake Assal, one of the saltiest bodies of water in the world.",
+        "languages": [
+            "French",
+            "Arabic"
+        ],
+        "currencies": [
+            "Djiboutian Franc (DJF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "جيبوتي",
+            "Djibouti"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 92,
+        "countryName": "Dominica",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+        "capital": "Roseau",
+        "population": 71991,
+        "interestingFact": "Dominica is known as the 'Nature Island' of the Caribbean due to its lush scenery and extensive natural park system.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "East Caribbean Dollar (XCD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Dominica"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 93,
+        "countryName": "Dominican Republic",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg",
+        "capital": "Santo Domingo",
+        "population": 10847910,
+        "interestingFact": "The Dominican Republic is home to Pico Duarte, the highest peak in the Caribbean.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Dominican Peso (DOP)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "República Dominicana"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 94,
+        "countryName": "East Timor",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
+        "capital": "Dili",
+        "population": 1387149,
+        "interestingFact": "East Timor is one of the newest countries in the world, having gained independence in 2002.",
+        "languages": [
+            "Tetum",
+            "Portuguese"
+        ],
+        "currencies": [
+            "United States Dollar (USD)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Timor-Leste"
+        ],
+        "timezone": "UTC+09:00"
+    },
+    {
+        "id": 95,
+        "countryName": "Ecuador",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+        "capital": "Quito",
+        "population": 17643060,
+        "interestingFact": "Ecuador is named after the equator, which runs through the country.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "United States Dollar (USD)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Ecuador"
+        ],
+        "timezone": "UTC-05:00"
+    },
+    {
+        "id": 96,
+        "countryName": "El Salvador",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg",
+        "capital": "San Salvador",
+        "population": 6486201,
+        "interestingFact": "El Salvador is known as the 'Land of Volcanoes' due to its frequent volcanic activity.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "United States Dollar (USD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "El Salvador"
+        ],
+        "timezone": "UTC-06:00"
+    },
+    {
+        "id": 97,
+        "countryName": "Equatorial Guinea",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+        "capital": "Malabo",
+        "population": 1355986,
+        "interestingFact": "Equatorial Guinea is the only African country where Spanish is an official language.",
+        "languages": [
+            "Spanish",
+            "French",
+            "Portuguese"
+        ],
+        "currencies": [
+            "Central African CFA franc (XAF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Guinea Ecuatorial"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 98,
+        "countryName": "Eritrea",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+        "capital": "Asmara",
+        "population": 3546000,
+        "interestingFact": "Eritrea has no official language, but Tigrinya, Arabic, and English are widely used.",
+        "languages": [
+            "Tigrinya",
+            "Arabic",
+            "English"
+        ],
+        "currencies": [
+            "Eritrean Nakfa (ERN)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "ኤርትራ",
+            "إريتريا"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 99,
+        "countryName": "Eswatini",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+        "capital": "Mbabane",
+        "population": 1160164,
+        "interestingFact": "Eswatini, formerly known as Swaziland, is one of the world's last absolute monarchies.",
+        "languages": [
+            "Swazi",
+            "English"
+        ],
+        "currencies": [
+            "Swazi Lilangeni (SZL)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Eswatini"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 100,
+        "countryName": "Ethiopia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+        "capital": "Addis Ababa",
+        "population": 114963588,
+        "interestingFact": "Ethiopia is the only African country that was never colonized.",
+        "languages": [
+            "Amharic"
+        ],
+        "currencies": [
+            "Ethiopian Birr (ETB)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "ኢትዮጵያ"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 101,
+        "countryName": "Fiji",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+        "capital": "Suva",
+        "population": 896444,
+        "interestingFact": "Fiji is made up of more than 330 islands, of which about 110 are permanently inhabited.",
+        "languages": [
+            "English",
+            "Fijian",
+            "Hindi"
+        ],
+        "currencies": [
+            "Fijian Dollar (FJD)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Fiji"
+        ],
+        "timezone": "UTC+12:00"
+    },
+    {
+        "id": 102,
+        "countryName": "Gabon",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+        "capital": "Libreville",
+        "population": 2225734,
+        "interestingFact": "Gabon is home to 13 national parks, which cover 11% of the country's land area.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "Central African CFA franc (XAF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Gabon"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 103,
+        "countryName": "Gambia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+        "capital": "Banjul",
+        "population": 2416668,
+        "interestingFact": "The Gambia is the smallest country on mainland Africa.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Gambian Dalasi (GMD)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Gambia"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 104,
+        "countryName": "Ghana",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+        "capital": "Accra",
+        "population": 31072940,
+        "interestingFact": "Ghana was the first African country to gain independence from colonial rule in 1957.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Ghanaian Cedi (GHS)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Ghana"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 105,
+        "countryName": "Grenada",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+        "capital": "St. George's",
+        "population": 112523,
+        "interestingFact": "Grenada is known as the 'Island of Spice' due to its production of nutmeg and mace.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "East Caribbean Dollar (XCD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Grenada"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 106,
+        "countryName": "Guatemala",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg",
+        "capital": "Guatemala City",
+        "population": 17915568,
+        "interestingFact": "Guatemala is home to the ancient Mayan city of Tikal, one of the largest archaeological sites in the Americas.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Guatemalan Quetzal (GTQ)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Guatemala"
+        ],
+        "timezone": "UTC-06:00"
+    },
+    {
+        "id": 107,
+        "countryName": "Guinea",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+        "capital": "Conakry",
+        "population": 13132792,
+        "interestingFact": "Guinea is one of the world's largest producers of bauxite, the ore used to make aluminum.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "Guinean Franc (GNF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Guinée"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 108,
+        "countryName": "Guinea-Bissau",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+        "capital": "Bissau",
+        "population": 1967998,
+        "interestingFact": "Guinea-Bissau is known for its national parks and wildlife, including the rare African manatee.",
+        "languages": [
+            "Portuguese"
+        ],
+        "currencies": [
+            "West African CFA franc (XOF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Guiné-Bissau"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 109,
+        "countryName": "Guyana",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+        "capital": "Georgetown",
+        "population": 786559,
+        "interestingFact": "Guyana is the only South American country where English is the official language.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Guyanese Dollar (GYD)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Guyana"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 110,
+        "countryName": "Haiti",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg",
+        "capital": "Port-au-Prince",
+        "population": 11402533,
+        "interestingFact": "Haiti is the first independent nation of Latin America and the Caribbean, having gained independence in 1804.",
+        "languages": [
+            "Haitian Creole",
+            "French"
+        ],
+        "currencies": [
+            "Haitian Gourde (HTG)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Haïti"
+        ],
+        "timezone": "UTC-05:00"
+    },
+    {
+        "id": 111,
+        "countryName": "Honduras",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/82/Flag_of_Honduras.svg",
+        "capital": "Tegucigalpa",
+        "population": 9904608,
+        "interestingFact": "Honduras is known for its rich natural resources, including minerals, coffee, tropical fruit, and sugar cane.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Honduran Lempira (HNL)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Honduras"
+        ],
+        "timezone": "UTC-06:00"
+    },
+    {
+        "id": 112,
+        "countryName": "Iceland",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+        "capital": "Reykjavik",
+        "population": 343599,
+        "interestingFact": "Iceland is home to the world's oldest parliament, the Althing, established in 930 AD.",
+        "languages": [
+            "Icelandic"
+        ],
+        "currencies": [
+            "Icelandic Króna (ISK)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Ísland"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 113,
+        "countryName": "Iran",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+        "capital": "Tehran",
+        "population": 83992949,
+        "interestingFact": "Iran is home to one of the world's oldest civilizations, dating back to 3200 BC.",
+        "languages": [
+            "Persian"
+        ],
+        "currencies": [
+            "Iranian Rial (IRR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "ایران"
+        ],
+        "timezone": "UTC+03:30"
+    },
+    {
+        "id": 114,
+        "countryName": "Iraq",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+        "capital": "Baghdad",
+        "population": 40222493,
+        "interestingFact": "Iraq is home to the ancient city of Babylon, one of the most famous cities of antiquity.",
+        "languages": [
+            "Arabic",
+            "Kurdish"
+        ],
+        "currencies": [
+            "Iraqi Dinar (IQD)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "العراق"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 115,
+        "countryName": "Israel",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+        "capital": "Jerusalem",
+        "population": 9216900,
+        "interestingFact": "Israel is home to the Dead Sea, the lowest point on Earth's surface.",
+        "languages": [
+            "Hebrew",
+            "Arabic"
+        ],
+        "currencies": [
+            "Israeli New Shekel (ILS)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "יִשְׂרָאֵל",
+            "إسرائيل"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 116,
+        "countryName": "Ivory Coast",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+        "capital": "Yamoussoukro",
+        "population": 26378274,
+        "interestingFact": "Ivory Coast is the world's largest producer of cocoa beans.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "West African CFA franc (XOF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Côte d’Ivoire"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 117,
+        "countryName": "Jamaica",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+        "capital": "Kingston",
+        "population": 2961161,
+        "interestingFact": "Jamaica is the birthplace of reggae music and the famous musician Bob Marley.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Jamaican Dollar (JMD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Jamaica"
+        ],
+        "timezone": "UTC-05:00"
+    },
+    {
+        "id": 118,
+        "countryName": "Jordan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+        "capital": "Amman",
+        "population": 10203140,
+        "interestingFact": "Jordan is home to the ancient city of Petra, one of the New Seven Wonders of the World.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Jordanian Dinar (JOD)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "الأردن"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 119,
+        "countryName": "Kazakhstan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+        "capital": "Nur-Sultan",
+        "population": 18776707,
+        "interestingFact": "Kazakhstan is the largest landlocked country in the world.",
+        "languages": [
+            "Kazakh",
+            "Russian"
+        ],
+        "currencies": [
+            "Kazakhstani Tenge (KZT)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Қазақстан"
+        ],
+        "timezone": "UTC+06:00"
+    },
+    {
+        "id": 120,
+        "countryName": "Kenya",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+        "capital": "Nairobi",
+        "population": 53771300,
+        "interestingFact": "Kenya is known for its diverse wildlife and is a popular destination for safaris.",
+        "languages": [
+            "Swahili",
+            "English"
+        ],
+        "currencies": [
+            "Kenyan Shilling (KES)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Kenya"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 121,
+        "countryName": "Kiribati",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+        "capital": "Tarawa",
+        "population": 119446,
+        "interestingFact": "Kiribati is the only country in the world that is situated in all four hemispheres.",
+        "languages": [
+            "English",
+            "Gilbertese"
+        ],
+        "currencies": [
+            "Kiribati Dollar (KID)",
+            "Australian Dollar (AUD)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Kiribati"
+        ],
+        "timezone": "UTC+12:00"
+    },
+    {
+        "id": 122,
+        "countryName": "Kuwait",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+        "capital": "Kuwait City",
+        "population": 4270563,
+        "interestingFact": "Kuwait has the world's sixth largest oil reserves.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Kuwaiti Dinar (KWD)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "الكويت"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 123,
+        "countryName": "Kyrgyzstan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+        "capital": "Bishkek",
+        "population": 6524195,
+        "interestingFact": "Kyrgyzstan is known for its mountainous terrain, with over 90% of the country being mountainous.",
+        "languages": [
+            "Kyrgyz",
+            "Russian"
+        ],
+        "currencies": [
+            "Kyrgyzstani Som (KGS)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Кыргызстан"
+        ],
+        "timezone": "UTC+06:00"
+    },
+    {
+        "id": 124,
+        "countryName": "Laos",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+        "capital": "Vientiane",
+        "population": 7275556,
+        "interestingFact": "Laos is the most heavily bombed country per capita in history, due to the Vietnam War.",
+        "languages": [
+            "Lao"
+        ],
+        "currencies": [
+            "Lao Kip (LAK)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "ປະເທດລາວ"
+        ],
+        "timezone": "UTC+07:00"
+    },
+    {
+        "id": 125,
+        "countryName": "Lebanon",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+        "capital": "Beirut",
+        "population": 6825442,
+        "interestingFact": "Lebanon is home to the ancient city of Byblos, one of the oldest continuously inhabited cities in the world.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Lebanese Pound (LBP)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "لبنان"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 126,
+        "countryName": "Lesotho",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+        "capital": "Maseru",
+        "population": 2142249,
+        "interestingFact": "Lesotho is one of the few countries in the world that is entirely above 1,000 meters in elevation.",
+        "languages": [
+            "Sesotho",
+            "English"
+        ],
+        "currencies": [
+            "Lesotho Loti (LSL)",
+            "South African Rand (ZAR)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Lesotho"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 127,
+        "countryName": "Liberia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+        "capital": "Monrovia",
+        "population": 5057681,
+        "interestingFact": "Liberia was founded by freed American and Caribbean slaves in 1847.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Liberian Dollar (LRD)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Liberia"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 128,
+        "countryName": "Libya",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+        "capital": "Tripoli",
+        "population": 6871287,
+        "interestingFact": "Libya has the largest proven oil reserves in Africa.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Libyan Dinar (LYD)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "ليبيا"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 129,
+        "countryName": "Madagascar",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+        "capital": "Antananarivo",
+        "population": 27691018,
+        "interestingFact": "Madagascar is home to 5% of the world's plant and animal species, many of which are found nowhere else on Earth.",
+        "languages": [
+            "Malagasy",
+            "French"
+        ],
+        "currencies": [
+            "Malagasy Ariary (MGA)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Madagasikara"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 130,
+        "countryName": "Malawi",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+        "capital": "Lilongwe",
+        "population": 19129952,
+        "interestingFact": "Malawi is known as the 'Warm Heart of Africa' due to the friendliness of its people.",
+        "languages": [
+            "English",
+            "Chichewa"
+        ],
+        "currencies": [
+            "Malawian Kwacha (MWK)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Malawi"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 131,
+        "countryName": "Maldives",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+        "capital": "Malé",
+        "population": 540542,
+        "interestingFact": "Maldives is the lowest country in the world, with an average ground level of 1.5 meters above sea level.",
+        "languages": [
+            "Dhivehi"
+        ],
+        "currencies": [
+            "Maldivian Rufiyaa (MVR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "ދިވެހި"
+        ],
+        "timezone": "UTC+05:00"
+    },
+    {
+        "id": 132,
+        "countryName": "Mali",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+        "capital": "Bamako",
+        "population": 20250833,
+        "interestingFact": "Mali is home to the legendary city of Timbuktu, an important center of trade and learning in ancient times.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "West African CFA franc (XOF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Mali"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 133,
+        "countryName": "Marshall Islands",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
+        "capital": "Majuro",
+        "population": 59190,
+        "interestingFact": "The Marshall Islands are spread over 29 coral atolls, comprising 1,156 individual islands and islets.",
+        "languages": [
+            "Marshallese",
+            "English"
+        ],
+        "currencies": [
+            "United States Dollar (USD)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "M̧ajeļ"
+        ],
+        "timezone": "UTC+12:00"
+    },
+    {
+        "id": 134,
+        "countryName": "Mauritania",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+        "capital": "Nouakchott",
+        "population": 4649658,
+        "interestingFact": "Mauritania was the last country in the world to abolish slavery, in 1981.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Mauritanian Ouguiya (MRU)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "موريتانيا"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 135,
+        "countryName": "Mauritius",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+        "capital": "Port Louis",
+        "population": 1265740,
+        "interestingFact": "Mauritius was the only known habitat of the extinct dodo bird.",
+        "languages": [
+            "English",
+            "French"
+        ],
+        "currencies": [
+            "Mauritian Rupee (MUR)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Maurice"
+        ],
+        "timezone": "UTC+04:00"
+    },
+    {
+        "id": 136,
+        "countryName": "Micronesia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+        "capital": "Palikir",
+        "population": 115021,
+        "interestingFact": "Micronesia is made up of 607 islands spread across the western Pacific Ocean.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "United States Dollar (USD)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Micronesia"
+        ],
+        "timezone": "UTC+10:00"
+    },
+    {
+        "id": 137,
+        "countryName": "Moldova",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+        "capital": "Chișinău",
+        "population": 2657637,
+        "interestingFact": "Moldova is known for its wine industry and has some of the largest wine cellars in the world.",
+        "languages": [
+            "Romanian"
+        ],
+        "currencies": [
+            "Moldovan Leu (MDL)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Moldova"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 138,
+        "countryName": "Mongolia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+        "capital": "Ulaanbaatar",
+        "population": 3278290,
+        "interestingFact": "Mongolia is known for its vast steppes and nomadic culture.",
+        "languages": [
+            "Mongolian"
+        ],
+        "currencies": [
+            "Mongolian Tögrög (MNT)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Монгол Улс"
+        ],
+        "timezone": "UTC+08:00"
+    },
+    {
+        "id": 139,
+        "countryName": "Montenegro",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+        "capital": "Podgorica",
+        "population": 622359,
+        "interestingFact": "Montenegro is known for its stunning Adriatic coastline and medieval old towns.",
+        "languages": [
+            "Montenegrin"
+        ],
+        "currencies": [
+            "Euro (EUR)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Crna Gora"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 140,
+        "countryName": "Morocco",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+        "capital": "Rabat",
+        "population": 36910560,
+        "interestingFact": "Morocco is home to the Sahara Desert, the largest hot desert in the world.",
+        "languages": [
+            "Arabic",
+            "Berber"
+        ],
+        "currencies": [
+            "Moroccan Dirham (MAD)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "المغرب"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 141,
+        "countryName": "Mozambique",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+        "capital": "Maputo",
+        "population": 31255435,
+        "interestingFact": "Mozambique has a coastline of over 2,500 kilometers along the Indian Ocean.",
+        "languages": [
+            "Portuguese"
+        ],
+        "currencies": [
+            "Mozambican Metical (MZN)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Moçambique"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 142,
+        "countryName": "Myanmar",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+        "capital": "Naypyidaw",
+        "population": 54409800,
+        "interestingFact": "Myanmar is home to the ancient city of Bagan, which has over 2,000 Buddhist temples and pagodas.",
+        "languages": [
+            "Burmese"
+        ],
+        "currencies": [
+            "Burmese Kyat (MMK)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "မြန်မာ"
+        ],
+        "timezone": "UTC+06:30"
+    },
+    {
+        "id": 143,
+        "countryName": "Namibia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+        "capital": "Windhoek",
+        "population": 2540905,
+        "interestingFact": "Namibia is home to the Namib Desert, one of the oldest deserts in the world.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Namibian Dollar (NAD)",
+            "South African Rand (ZAR)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Namibia"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 144,
+        "countryName": "Nauru",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+        "capital": "Yaren",
+        "population": 10834,
+        "interestingFact": "Nauru is the third smallest country by area in the world, after Vatican City and Monaco.",
+        "languages": [
+            "Nauruan",
+            "English"
+        ],
+        "currencies": [
+            "Australian Dollar (AUD)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Nauru"
+        ],
+        "timezone": "UTC+12:00"
+    },
+    {
+        "id": 145,
+        "countryName": "Nicaragua",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+        "capital": "Managua",
+        "population": 6624554,
+        "interestingFact": "Nicaragua is known as the 'Land of Lakes and Volcanoes' due to its numerous lakes and active volcanoes.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Nicaraguan Córdoba (NIO)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Nicaragua"
+        ],
+        "timezone": "UTC-06:00"
+    },
+    {
+        "id": 146,
+        "countryName": "Niger",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+        "capital": "Niamey",
+        "population": 24206644,
+        "interestingFact": "Niger is named after the Niger River, which is the third longest river in Africa.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "West African CFA franc (XOF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Niger"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 147,
+        "countryName": "Nigeria",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+        "capital": "Abuja",
+        "population": 206139589,
+        "interestingFact": "Nigeria is the most populous country in Africa and the seventh most populous country in the world.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Nigerian Naira (NGN)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Nigeria"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 148,
+        "countryName": "North Korea",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+        "capital": "Pyongyang",
+        "population": 25778816,
+        "interestingFact": "North Korea is known for its strict government control and isolation from the rest of the world.",
+        "languages": [
+            "Korean"
+        ],
+        "currencies": [
+            "North Korean Won (KPW)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "조선민주주의인민공화국"
+        ],
+        "timezone": "UTC+09:00"
+    },
+    {
+        "id": 149,
+        "countryName": "North Macedonia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+        "capital": "Skopje",
+        "population": 2083459,
+        "interestingFact": "North Macedonia is home to Lake Ohrid, one of the oldest and deepest lakes in Europe.",
+        "languages": [
+            "Macedonian"
+        ],
+        "currencies": [
+            "Macedonian Denar (MKD)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Северна Македонија"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 150,
+        "countryName": "Oman",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+        "capital": "Muscat",
+        "population": 5106626,
+        "interestingFact": "Oman is known for its historic forts, with over 500 forts and castles throughout the country.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Omani Rial (OMR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "عمان"
+        ],
+        "timezone": "UTC+04:00"
+    },
+    {
+        "id": 151,
+        "countryName": "Palau",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+        "capital": "Ngerulmud",
+        "population": 18094,
+        "interestingFact": "Palau is known for its pristine marine environment and is a popular destination for scuba diving.",
+        "languages": [
+            "Palauan",
+            "English"
+        ],
+        "currencies": [
+            "United States Dollar (USD)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Belau"
+        ],
+        "timezone": "UTC+09:00"
+    },
+    {
+        "id": 152,
+        "countryName": "Panama",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+        "capital": "Panama City",
+        "population": 4314768,
+        "interestingFact": "Panama is famous for the Panama Canal, which connects the Atlantic and Pacific Oceans.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Panamanian Balboa (PAB)",
+            "United States Dollar (USD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Panamá"
+        ],
+        "timezone": "UTC-05:00"
+    },
+    {
+        "id": 153,
+        "countryName": "Papua New Guinea",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+        "capital": "Port Moresby",
+        "population": 8947027,
+        "interestingFact": "Papua New Guinea is one of the most culturally diverse countries in the world, with over 800 languages spoken.",
+        "languages": [
+            "English",
+            "Tok Pisin",
+            "Hiri Motu"
+        ],
+        "currencies": [
+            "Papua New Guinean Kina (PGK)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Papua Niugini"
+        ],
+        "timezone": "UTC+10:00"
+    },
+    {
+        "id": 154,
+        "countryName": "Paraguay",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+        "capital": "Asunción",
+        "population": 7132530,
+        "interestingFact": "Paraguay is one of the two landlocked countries in South America, the other being Bolivia.",
+        "languages": [
+            "Spanish",
+            "Guarani"
+        ],
+        "currencies": [
+            "Paraguayan Guarani (PYG)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Paraguay"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 155,
+        "countryName": "Peru",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+        "capital": "Lima",
+        "population": 32971846,
+        "interestingFact": "Peru is home to a section of the Amazon rainforest and Machu Picchu, an ancient Incan city high in the Andes mountains.",
+        "languages": [
+            "Spanish",
+            "Quechua",
+            "Aymara"
+        ],
+        "currencies": [
+            "Peruvian Sol (PEN)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Perú"
+        ],
+        "timezone": "UTC-05:00"
+    },
+    {
+        "id": 156,
+        "countryName": "Qatar",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+        "capital": "Doha",
+        "population": 2881060,
+        "interestingFact": "Qatar is one of the richest countries in the world due to its vast reserves of oil and natural gas.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Qatari Riyal (QAR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "قطر"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 157,
+        "countryName": "Rwanda",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+        "capital": "Kigali",
+        "population": 12626950,
+        "interestingFact": "Rwanda is known as the 'Land of a Thousand Hills' due to its mountainous terrain.",
+        "languages": [
+            "Kinyarwanda",
+            "French",
+            "English"
+        ],
+        "currencies": [
+            "Rwandan Franc (RWF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Rwanda"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 158,
+        "countryName": "Saint Kitts and Nevis",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+        "capital": "Basseterre",
+        "population": 53192,
+        "interestingFact": "Saint Kitts and Nevis is the smallest country in the Western Hemisphere, both in area and population.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "East Caribbean Dollar (XCD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Saint Kitts and Nevis"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 159,
+        "countryName": "Saint Lucia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+        "capital": "Castries",
+        "population": 183627,
+        "interestingFact": "Saint Lucia is known for the Pitons, two mountainous volcanic spires that are a UNESCO World Heritage Site.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "East Caribbean Dollar (XCD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Saint Lucia"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 160,
+        "countryName": "Saint Vincent and the Grenadines",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+        "capital": "Kingstown",
+        "population": 110947,
+        "interestingFact": "Saint Vincent and the Grenadines is known for its yacht-filled harbors and as a filming location for the 'Pirates of the Caribbean' movies.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "East Caribbean Dollar (XCD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Saint Vincent and the Grenadines"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 161,
+        "countryName": "Samoa",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
+        "capital": "Apia",
+        "population": 198410,
+        "interestingFact": "Samoa is known for its Fa'a Samoa culture, which emphasizes community, family, and respect for elders.",
+        "languages": [
+            "Samoan",
+            "English"
+        ],
+        "currencies": [
+            "Samoan Tala (WST)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Samoa"
+        ],
+        "timezone": "UTC+13:00"
+    },
+    {
+        "id": 162,
+        "countryName": "Sao Tome and Principe",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
+        "capital": "São Tomé",
+        "population": 219159,
+        "interestingFact": "Sao Tome and Principe is the second smallest African country by population.",
+        "languages": [
+            "Portuguese"
+        ],
+        "currencies": [
+            "São Tomé and Príncipe Dobra (STN)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "São Tomé e Príncipe"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 163,
+        "countryName": "Senegal",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+        "capital": "Dakar",
+        "population": 16743927,
+        "interestingFact": "Senegal is known for its vibrant music scene, particularly the genre of Mbalax.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "West African CFA franc (XOF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Sénégal"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 164,
+        "countryName": "Seychelles",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+        "capital": "Victoria",
+        "population": 98347,
+        "interestingFact": "Seychelles is home to some of the world's most beautiful beaches, with white sand and crystal-clear waters.",
+        "languages": [
+            "Seychellois Creole",
+            "English",
+            "French"
+        ],
+        "currencies": [
+            "Seychellois Rupee (SCR)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Seychelles"
+        ],
+        "timezone": "UTC+04:00"
+    },
+    {
+        "id": 165,
+        "countryName": "Sierra Leone",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+        "capital": "Freetown",
+        "population": 7976983,
+        "interestingFact": "Sierra Leone is known for its diamond mines, which have been both a blessing and a curse for the country.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Sierra Leonean Leone (SLL)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Sierra Leone"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 166,
+        "countryName": "Solomon Islands",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+        "capital": "Honiara",
+        "population": 686878,
+        "interestingFact": "The Solomon Islands were the site of intense fighting during World War II, including the Battle of Guadalcanal.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Solomon Islands Dollar (SBD)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Solomon Islands"
+        ],
+        "timezone": "UTC+11:00"
+    },
+    {
+        "id": 167,
+        "countryName": "Somalia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+        "capital": "Mogadishu",
+        "population": 15893222,
+        "interestingFact": "Somalia has the longest coastline on Africa's mainland, stretching over 3,300 kilometers.",
+        "languages": [
+            "Somali",
+            "Arabic"
+        ],
+        "currencies": [
+            "Somali Shilling (SOS)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Soomaaliya"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 168,
+        "countryName": "South Sudan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+        "capital": "Juba",
+        "population": 11193725,
+        "interestingFact": "South Sudan is the newest country in the world, having gained independence from Sudan in 2011.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "South Sudanese Pound (SSP)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "South Sudan"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 169,
+        "countryName": "Sri Lanka",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+        "capital": "Sri Jayawardenepura Kotte",
+        "population": 21803000,
+        "interestingFact": "Sri Lanka is known for its tea plantations and is one of the world's largest tea exporters.",
+        "languages": [
+            "Sinhala",
+            "Tamil"
+        ],
+        "currencies": [
+            "Sri Lankan Rupee (LKR)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "ශ්‍රී ලංකා",
+            "இலங்கை"
+        ],
+        "timezone": "UTC+05:30"
+    },
+    {
+        "id": 170,
+        "countryName": "Sudan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+        "capital": "Khartoum",
+        "population": 43849260,
+        "interestingFact": "Sudan has more pyramids than Egypt, with over 200 pyramids in the ancient city of Meroë.",
+        "languages": [
+            "Arabic",
+            "English"
+        ],
+        "currencies": [
+            "Sudanese Pound (SDG)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "السودان"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 171,
+        "countryName": "Suriname",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+        "capital": "Paramaribo",
+        "population": 586634,
+        "interestingFact": "Suriname is the smallest country in South America.",
+        "languages": [
+            "Dutch"
+        ],
+        "currencies": [
+            "Surinamese Dollar (SRD)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Suriname"
+        ],
+        "timezone": "UTC-03:00"
+    },
+    {
+        "id": 172,
+        "countryName": "Syria",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+        "capital": "Damascus",
+        "population": 17500657,
+        "interestingFact": "Syria is home to one of the oldest continuously inhabited cities in the world, Damascus.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Syrian Pound (SYP)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "سوريا"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 173,
+        "countryName": "Tajikistan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+        "capital": "Dushanbe",
+        "population": 9537642,
+        "interestingFact": "Tajikistan is home to the Pamir Mountains, which are among the highest in the world.",
+        "languages": [
+            "Tajik"
+        ],
+        "currencies": [
+            "Tajikistani Somoni (TJS)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Тоҷикистон"
+        ],
+        "timezone": "UTC+05:00"
+    },
+    {
+        "id": 174,
+        "countryName": "Tanzania",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+        "capital": "Dodoma",
+        "population": 59734213,
+        "interestingFact": "Tanzania is home to Mount Kilimanjaro, the highest peak in Africa.",
+        "languages": [
+            "Swahili",
+            "English"
+        ],
+        "currencies": [
+            "Tanzanian Shilling (TZS)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Tanzania"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 175,
+        "countryName": "Togo",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+        "capital": "Lomé",
+        "population": 8278724,
+        "interestingFact": "Togo is one of the smallest countries in Africa.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "West African CFA franc (XOF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Togo"
+        ],
+        "timezone": "UTC+00:00"
+    },
+    {
+        "id": 176,
+        "countryName": "Tonga",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
+        "capital": "Nuku'alofa",
+        "population": 105695,
+        "interestingFact": "Tonga is the only Pacific nation never to have been colonized.",
+        "languages": [
+            "Tongan",
+            "English"
+        ],
+        "currencies": [
+            "Tongan Paʻanga (TOP)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Tonga"
+        ],
+        "timezone": "UTC+13:00"
+    },
+    {
+        "id": 177,
+        "countryName": "Trinidad and Tobago",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+        "capital": "Port of Spain",
+        "population": 1399491,
+        "interestingFact": "Trinidad and Tobago is known for its Carnival, one of the biggest and most famous in the Caribbean.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Trinidad and Tobago Dollar (TTD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Trinidad and Tobago"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 178,
+        "countryName": "Tunisia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+        "capital": "Tunis",
+        "population": 11818619,
+        "interestingFact": "Tunisia is home to the ancient city of Carthage, a major power in the ancient Mediterranean.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Tunisian Dinar (TND)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "تونس"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 179,
+        "countryName": "Turkmenistan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+        "capital": "Ashgabat",
+        "population": 6031187,
+        "interestingFact": "Turkmenistan is known for its large natural gas reserves.",
+        "languages": [
+            "Turkmen"
+        ],
+        "currencies": [
+            "Turkmenistani Manat (TMT)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Türkmenistan"
+        ],
+        "timezone": "UTC+05:00"
+    },
+    {
+        "id": 180,
+        "countryName": "Tuvalu",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
+        "capital": "Funafuti",
+        "population": 11792,
+        "interestingFact": "Tuvalu is the fourth smallest country in the world by land area.",
+        "languages": [
+            "Tuvaluan",
+            "English"
+        ],
+        "currencies": [
+            "Tuvaluan Dollar (TVD)",
+            "Australian Dollar (AUD)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Tuvalu"
+        ],
+        "timezone": "UTC+12:00"
+    },
+    {
+        "id": 181,
+        "countryName": "Uganda",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+        "capital": "Kampala",
+        "population": 45741000,
+        "interestingFact": "Uganda is home to the source of the Nile River, the longest river in the world.",
+        "languages": [
+            "English",
+            "Swahili"
+        ],
+        "currencies": [
+            "Ugandan Shilling (UGX)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Uganda"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 182,
+        "countryName": "United Arab Emirates",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+        "capital": "Abu Dhabi",
+        "population": 9890400,
+        "interestingFact": "The Burj Khalifa in Dubai is the tallest building in the world.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "United Arab Emirates Dirham (AED)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "الإمارات العربية المتحدة"
+        ],
+        "timezone": "UTC+04:00"
+    },
+    {
+        "id": 183,
+        "countryName": "Uruguay",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+        "capital": "Montevideo",
+        "population": 3473727,
+        "interestingFact": "Uruguay is one of the most progressive countries in Latin America, being the first to legalize marijuana.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Uruguayan Peso (UYU)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Uruguay"
+        ],
+        "timezone": "UTC-03:00"
+    },
+    {
+        "id": 184,
+        "countryName": "Uzbekistan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+        "capital": "Tashkent",
+        "population": 34232050,
+        "interestingFact": "Uzbekistan is one of only two doubly landlocked countries in the world.",
+        "languages": [
+            "Uzbek"
+        ],
+        "currencies": [
+            "Uzbekistani Som (UZS)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "Oʻzbekiston"
+        ],
+        "timezone": "UTC+05:00"
+    },
+    {
+        "id": 185,
+        "countryName": "Vanuatu",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg",
+        "capital": "Port Vila",
+        "population": 307150,
+        "interestingFact": "Vanuatu is known for its active volcanoes, including Mount Yasur on Tanna Island.",
+        "languages": [
+            "Bislama",
+            "English",
+            "French"
+        ],
+        "currencies": [
+            "Vanuatu Vatu (VUV)"
+        ],
+        "continent": "Oceania",
+        "nativeNames": [
+            "Vanuatu"
+        ],
+        "timezone": "UTC+11:00"
+    },
+    {
+        "id": 186,
+        "countryName": "Venezuela",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+        "capital": "Caracas",
+        "population": 28435943,
+        "interestingFact": "Venezuela is home to Angel Falls, the world's highest uninterrupted waterfall.",
+        "languages": [
+            "Spanish"
+        ],
+        "currencies": [
+            "Venezuelan Bolívar (VES)"
+        ],
+        "continent": "South America",
+        "nativeNames": [
+            "Venezuela"
+        ],
+        "timezone": "UTC-04:00"
+    },
+    {
+        "id": 187,
+        "countryName": "Yemen",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+        "capital": "Sana'a",
+        "population": 29825968,
+        "interestingFact": "Yemen is home to the ancient city of Shibam, known as the 'Manhattan of the Desert' for its mudbrick skyscrapers.",
+        "languages": [
+            "Arabic"
+        ],
+        "currencies": [
+            "Yemeni Rial (YER)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "اليَمَن"
+        ],
+        "timezone": "UTC+03:00"
+    },
+    {
+        "id": 188,
+        "countryName": "Zambia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+        "capital": "Lusaka",
+        "population": 18383955,
+        "interestingFact": "Zambia is home to Victoria Falls, one of the largest and most famous waterfalls in the world.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Zambian Kwacha (ZMW)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Zambia"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 189,
+        "countryName": "Zimbabwe",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+        "capital": "Harare",
+        "population": 14862924,
+        "interestingFact": "Zimbabwe is known for its diverse wildlife and the Great Zimbabwe ruins, an ancient city.",
+        "languages": [
+            "English",
+            "Shona",
+            "Ndebele"
+        ],
+        "currencies": [
+            "Zimbabwean Dollar (ZWL)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Zimbabwe"
+        ],
+        "timezone": "UTC+02:00"
+    },
+    {
+        "id": 190,
+        "countryName": "Albania",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+        "capital": "Tirana",
+        "population": 2877797,
+        "interestingFact": "Albania is home to the ancient city of Butrint, a UNESCO World Heritage Site.",
+        "languages": [
+            "Albanian"
+        ],
+        "currencies": [
+            "Albanian Lek (ALL)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Shqipëria"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 191,
+        "countryName": "Bahamas",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+        "capital": "Nassau",
+        "population": 393244,
+        "interestingFact": "The Bahamas is known for its crystal-clear waters and white sandy beaches.",
+        "languages": [
+            "English"
+        ],
+        "currencies": [
+            "Bahamian Dollar (BSD)"
+        ],
+        "continent": "North America",
+        "nativeNames": [
+            "Bahamas"
+        ],
+        "timezone": "UTC-05:00"
+    },
+    {
+        "id": 192,
+        "countryName": "Cabo Verde Georgia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+        "capital": "Praia",
+        "population": 555987,
+        "interestingFact": "Cabo Verde is known for its music, particularly the genre of morna.",
+        "languages": [
+            "Portuguese"
+        ],
+        "currencies": [
+            "Cape Verdean Escudo (CVE)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "Cabo Verde"
+        ],
+        "timezone": "UTC-01:00"
+    },
+    {
+        "id": 193,
+        "countryName": "Georgia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+        "capital": "Tbilisi",
+        "population": 3989167,
+        "interestingFact": "Georgia is known for its wine-making traditions, with evidence of wine production dating back over 8,000 years.",
+        "languages": [
+            "Georgian"
+        ],
+        "currencies": [
+            "Georgian Lari (GEL)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "საქართველო"
+        ],
+        "timezone": "UTC+04:00"
+    },
+    {
+        "id": 194,
+        "countryName": "Serbia",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg",
+        "capital": "Belgrade",
+        "population": 8737371,
+        "interestingFact": "Serbia is known for its traditional music, particularly the genre of turbo-folk.",
+        "languages": [
+            "Serbian"
+        ],
+        "currencies": [
+            "Serbian Dinar (RSD)"
+        ],
+        "continent": "Europe",
+        "nativeNames": [
+            "Србија"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 195,
+        "countryName": "Democratic Republic of the Congo",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+        "capital": "Kinshasa",
+        "population": 101780263,
+        "interestingFact": "The Democratic Republic of the Congo is the largest country in sub-Saharan Africa by area.",
+        "languages": [
+            "French"
+        ],
+        "currencies": [
+            "Congolese Franc (CDF)"
+        ],
+        "continent": "Africa",
+        "nativeNames": [
+            "République démocratique du Congo"
+        ],
+        "timezone": "UTC+01:00"
+    },
+    {
+        "id": 196,
+        "countryName": "Taiwan",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+        "capital": "Taipei",
+        "population": 23816775,
+        "interestingFact": "Taiwan is known for its night markets, where visitors can sample a wide variety of street food.",
+        "languages": [
+            "Mandarin"
+        ],
+        "currencies": [
+            "New Taiwan Dollar (TWD)"
+        ],
+        "continent": "Asia",
+        "nativeNames": [
+            "臺灣",
+            "台湾"
+        ],
+        "timezone": "UTC+08:00"
     }
 ]

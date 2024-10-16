@@ -7,8 +7,8 @@ export default function ReadMore() {
     const { countryName } = useParams();
     const country = countries.find(country => country.countryName === countryName);
     return (
-        <div className='flex rounded-xl w-full bg-gradient-to-r from-surface-10 via-gray-500 to-surface-10 p-[1px]'>
-            <div className='flex relative w-full justify-evenly md:justify-evenly flex-col items-center md:items-stretch md:flex-row sm:p-clamp-sm lg:p-clamp-lg bg-custom-gradient rounded-xl'>
+        <div className='flex w-full bg-gradient-to-r from-surface-10 via-gray-500 to-surface-10 p-[1px]'>
+            <div className='flex relative w-full justify-evenly md:justify-evenly flex-col items-center md:items-stretch md:flex-row sm:p-clamp-sm lg:p-clamp-lg bg-custom-gradient'>
                 <GoBackButton />
                 <div className='flex items-center w-64 md:w-96 border-xl overflow-hidden justify-center md:h-full mt-5 md:mt-0'>
                     <div>

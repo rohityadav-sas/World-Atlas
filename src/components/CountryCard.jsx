@@ -60,6 +60,7 @@ export default function CountryCard({ country }) {
                         style={containCountries.includes(country.countryName) ? { objectFit: "contain" } : {}}
                         onLoad={() => setFlagLoaded(true)}
                         onError={() => setFlagError(true)}
+                        loading="lazy"
                     />
                 )}
                 <div className="absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent"></div>
