@@ -75,11 +75,15 @@ Explore the world, one country at a time! This React app provides detailed infor
 
 - **Tailwind CSS**: Utility-first CSS framework for styling.
 
-- **React Router**: For navigation between pages.
+- **React Router Dom**: For navigation between pages.
 
 - **React Hook Form**: To manage form data and validations.
 
 - **React Transition Group**: To handle animations for entering and exiting elements in React.
+
+- **React Tooltip**: For adding tooltips to elements.
+
+- **lodash.debounce**: To limit the rate at which the search function is called.
 
 
 ## License
