@@ -15,7 +15,7 @@ export default function ReadMore() {
                         <img src={country.flag} className='rounded-xl' style={country.countryName === "Nepal" ? { height: "12rem" } : {}} />
                     </div>
                 </div>
-                <div className='flex gap-4 md:justify-evenly flex-col'>
+                <div className='flex gap-2 md:justify-evenly flex-col'>
                     <h1 className='font-mono font-bold text-3xl text-purple-300'>{country.countryName}</h1>
                     <Info label="Native Names" value={country.nativeNames} />
                     <Info label="Capital" value={country.capital} />
@@ -23,6 +23,8 @@ export default function ReadMore() {
                     <Info label="Currency" value={country.currencies} />
                     <Info label="Continent" value={country.continent} />
                     <Info label="Languages" value={country.languages} />
+                    <Info label="Area" value={country.area} />
+                    <Info label="Top Tourist Attractions" value={Object.keys(country.topTouristAttractions)} link={Object.values(country.topTouristAttractions)} />
                     <Info label="Time Zone" value={country.timezone} />
                 </div>
             </div>

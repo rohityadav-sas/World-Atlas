@@ -9,11 +9,10 @@ export default function Contact() {
     };
 
     return (
-        <div className="bg-gray-900 flex sm:items-center justify-center p-4 w-full h-full overflow-auto">
-            <div className="max-w-lg w-full bg-gray-800 px-8 py-7 rounded-xl shadow-lg flex-grow h-fit">
+        <div className="bg-gray-900 flex items-center justify-center p-4 w-full flex-grow overflow-hidden">
+            <div className="max-w-96 w-full bg-gray-800 px-8 py-7 rounded-xl shadow-lg flex-grow h-fit">
                 <div className="text-center">
-                    <h2 className="text-2xl md:text-3xl font-extrabold text-white">Contact Us</h2>
-                    <p className="mt-2 text-xs md:text-sm text-gray-400">We'd love to hear from you!</p>
+                    <h2 className="text-xl md:text-2xl font-extrabold text-white">Contact Us</h2>
                 </div>
                 <form className="mt-2 text-sm space-y-6" onSubmit={handleSubmit(onSubmit)}>
                     <div className="space-y-4">
@@ -40,17 +39,6 @@ export default function Contact() {
                                 }}
                                 type="email"
                                 placeholder="your@gmail.com"
-                            />
-                        </div>
-                        <div>
-                            <Input
-                                label="Subject"
-                                id="subject"
-                                register={register}
-                                errors={errors.subject}
-                                validation={{ required: "Subject is required" }}
-                                type="text"
-                                placeholder="Subject"
                             />
                         </div>
                         <div className="flex gap-1 flex-col">

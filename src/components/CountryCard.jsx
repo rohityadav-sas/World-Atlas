@@ -78,7 +78,7 @@ export default function CountryCard({ country }) {
                 <div className="pt-2 border-t border-gray-700">
                     <div className="flex items-start text-gray-300">
                         <LuSparkles className="w-5 h-5 mr-2 mt-1 flex-shrink-0" />
-                        <p className="text-sm h-16">
+                        <p className="text-sm h-20">
                             <span className="font-semibold text-indigo-400">Interesting Fact:</span> {country.interestingFact}
                         </p>
                     </div>

@@ -16,7 +16,12 @@
         "nativeNames": [
             "नेपाल"
         ],
-        "timezone": "UTC+05:45"
+        "timezone": "UTC+05:45",
+        "area": "147,181 sq km",
+        "topTouristAttractions": {
+            "Mount Everest": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Mount_Everest_as_seen_from_Drukair2_PLW_edit.jpg",
+            "Annapurna Circuit": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Annapurna_massif.jpg"
+        }
     },
     {
         "id": 2,
@@ -35,7 +40,12 @@
         "nativeNames": [
             "Australia"
         ],
-        "timezone": "UTC+10:00"
+        "timezone": "UTC+10:00",
+        "area": "7,692,024 sq km",
+        "topTouristAttractions": {
+            "Sydney Opera House": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sydney_Opera_House_Sails.jpg",
+            "Great Barrier Reef": "https://upload.wikimedia.org/wikipedia/commons/8/80/Great_Barrier_Reef_on_February_12%2C_2018.jpg"
+        }
     },
     {
         "id": 3,
@@ -43,7 +53,7 @@
         "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
         "capital": "Cairo",
         "population": 109300000,
-        "interestingFact": "Egypt is home to the last remaining of the Seven Wonders of the Ancient World: the Great Pyramid of Giza.",
+        "interestingFact": "Egypt is home to last remaining of Seven Wonders of Ancient World: the Great Pyramid of Giza.",
         "languages": [
             "Arabic"
         ],
@@ -54,7 +64,12 @@
         "nativeNames": [
             "مصر"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "1,010,408 sq km",
+        "topTouristAttractions": {
+            "Great Pyramid of Giza": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Kheops-Pyramid.jpg",
+            "Karnak Temple": "https://upload.wikimedia.org/wikipedia/commons/d/d9/%D8%B4%D9%83%D9%84_%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D9%83%D8%B1%D9%86%D9%83_%D9%85%D9%86_%D8%A7%D9%84%D8%A3%D8%B9%D9%84%D9%89.jpg"
+        }
     },
     {
         "id": 4,
@@ -73,7 +88,12 @@
         "nativeNames": [
             "Brasil"
         ],
-        "timezone": "UTC-03:00"
+        "timezone": "UTC-03:00",
+        "area": "8,515,767 sq km",
+        "topTouristAttractions": {
+            "Christ the Redeemer": "https://upload.wikimedia.org/wikipedia/commons/2/26/Christ_the_Redeemer.jpg",
+            "Iguazu Falls": "https://upload.wikimedia.org/wikipedia/commons/7/7f/1_iguazu_falls_brazil_2010.jpg"
+        }
     },
     {
         "id": 5,
@@ -93,7 +113,12 @@
         "nativeNames": [
             "Canada"
         ],
-        "timezone": "UTC-05:00 to UTC-08:00"
+        "timezone": "UTC-05:00 to UTC-08:00",
+        "area": "9,984,670 sq km",
+        "topTouristAttractions": {
+            "Niagara Falls": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Niagara_Falls_USA_Canada_from_Skylon_Tower_on_2002-05-28%2C_full_size.jpg",
+            "Banff National Park": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Moraine_Lake_17092005.jpg"
+        }
     },
     {
         "id": 6,
@@ -113,7 +138,12 @@
         "nativeNames": [
             "भारत"
         ],
-        "timezone": "UTC+05:30"
+        "timezone": "UTC+05:30",
+        "area": "3,287,263 sq km",
+        "topTouristAttractions": {
+            "Taj Mahal": "https://upload.wikimedia.org/wikipedia/commons/1/15/Taj_Mahal-10.jpg",
+            "Jaipur": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Jaipur_Montage.png"
+        }
     },
     {
         "id": 7,
@@ -132,7 +162,12 @@
         "nativeNames": [
             "Deutschland"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "357,022 sq km",
+        "topTouristAttractions": {
+            "Brandenburg Gate": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Brandenburger_Tor_morgens.jpg",
+            "Neuschwanstein Castle": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Schloss_Neuschwanstein_%2845_mm%29.jpg"
+        }
     },
     {
         "id": 8,
@@ -151,7 +186,12 @@
         "nativeNames": [
             "México"
         ],
-        "timezone": "UTC-06:00"
+        "timezone": "UTC-06:00",
+        "area": "1,964,375 sq km",
+        "topTouristAttractions": {
+            "Chichen Itza": "https://upload.wikimedia.org/wikipedia/commons/5/51/Chichen_Itza_3.jpg",
+            "Cancun": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Canc%C3%BAnCollage.jpg"
+        }
     },
     {
         "id": 9,
@@ -170,7 +210,12 @@
         "nativeNames": [
             "Norge"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "385,207 sq km",
+        "topTouristAttractions": {
+            "Geirangerfjord": "https://upload.wikimedia.org/wikipedia/commons/6/65/.00_1262_Geiranger_-_Norway.jpg",
+            "Trolltunga": "https://upload.wikimedia.org/wikipedia/commons/c/cc/View_of_trolltunga.jpg"
+        }
     },
     {
         "id": 10,
@@ -189,7 +234,12 @@
         "nativeNames": [
             "日本"
         ],
-        "timezone": "UTC+09:00"
+        "timezone": "UTC+09:00",
+        "area": "377,975 sq km",
+        "topTouristAttractions": {
+            "Mount Fuji": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Kodaki_fuji_frm_shojinko_refurb.jpg",
+            "Kyoto": "https://upload.wikimedia.org/wikipedia/commons/2/22/Kyoto_montage.jpg"
+        }
     },
     {
         "id": 11,
@@ -208,7 +258,12 @@
         "nativeNames": [
             "বাংলাদেশ"
         ],
-        "timezone": "UTC+06:00"
+        "timezone": "UTC+06:00",
+        "area": "147,570 sq km",
+        "topTouristAttractions": {
+            "Sundarbans": "https://upload.wikimedia.org/wikipedia/commons/4/40/Sundarbans_02.jpg",
+            "Cox's Bazar": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Coxsbazar_sun_2003.jpg"
+        }
     },
     {
         "id": 12,
@@ -227,7 +282,12 @@
         "nativeNames": [
             "中国"
         ],
-        "timezone": "UTC+08:00"
+        "timezone": "UTC+08:00",
+        "area": "9,596,961 sq km",
+        "topTouristAttractions": {
+            "Great Wall of China": "https://upload.wikimedia.org/wikipedia/commons/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+            "Forbidden City": "https://upload.wikimedia.org/wikipedia/commons/1/13/Forbidden_City1.JPG"
+        }
     },
     {
         "id": 13,
@@ -246,7 +306,12 @@
         "nativeNames": [
             "Indonesia"
         ],
-        "timezone": "UTC+07:00 to UTC+09:00"
+        "timezone": "UTC+07:00 to UTC+09:00",
+        "area": "1,904,569 sq km",
+        "topTouristAttractions": {
+            "Bali": "https://upload.wikimedia.org/wikipedia/commons/3/36/Bali_panorama.jpg",
+            "Borobudur": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Borobudur-Nothwest-view.jpg"
+        }
     },
     {
         "id": 14,
@@ -265,7 +330,12 @@
         "nativeNames": [
             "Italia"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "301,340 sq km",
+        "topTouristAttractions": {
+            "Colosseum": "https://upload.wikimedia.org/wikipedia/commons/d/de/Colosseo_2020.jpg",
+            "Venice": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Venice_Old_Town_Lagoon_Aerial_View.jpg"
+        }
     },
     {
         "id": 15,
@@ -284,7 +354,12 @@
         "nativeNames": [
             "Россия"
         ],
-        "timezone": "UTC+02:00 to UTC+12:00"
+        "timezone": "UTC+02:00 to UTC+12:00",
+        "area": "17,098,242 sq km",
+        "topTouristAttractions": {
+            "Red Square": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Red_Square_2023.jpg",
+            "Saint Basil's Cathedral": "https://upload.wikimedia.org/wikipedia/commons/7/7a/%D0%A5%D1%80%D0%B0%D0%BC_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%91%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%E2%84%962.JPG"
+        }
     },
     {
         "id": 16,
@@ -306,7 +381,12 @@
         "nativeNames": [
             "South Africa"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "1,221,037 sq km",
+        "topTouristAttractions": {
+            "Kruger National Park": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Impalas_and_Zebras_at_Duke%27s_Waterhole_%2816589771331%29.jpg",
+            "Table Mountain": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Table_mountain.JPG"
+        }
     },
     {
         "id": 17,
@@ -325,7 +405,12 @@
         "nativeNames": [
             "United Kingdom"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "243,610 sq km",
+        "topTouristAttractions": {
+            "Big Ben": "https://upload.wikimedia.org/wikipedia/commons/9/93/Clock_Tower_-_Palace_of_Westminster%2C_London_-_May_2007.jpg",
+            "Stonehenge": "https://upload.wikimedia.org/wikipedia/commons/8/88/Stonehege_%282148722919%29.jpg"
+        }
     },
     {
         "id": 18,
@@ -344,7 +429,12 @@
         "nativeNames": [
             "United States"
         ],
-        "timezone": "UTC-04:00 to UTC-10:00"
+        "timezone": "UTC-04:00 to UTC-10:00",
+        "area": "9,833,520 sq km",
+        "topTouristAttractions": {
+            "Grand Canyon": "https://upload.wikimedia.org/wikipedia/commons/a/af/Grand_Canyon_view_from_Pima_Point_2010.jpg",
+            "Statue of Liberty": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Statue_of_Liberty_7.jpg"
+        }
     },
     {
         "id": 19,
@@ -363,7 +453,12 @@
         "nativeNames": [
             "France"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "551,695 sq km",
+        "topTouristAttractions": {
+            "Eiffel Tower": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
+            "Louvre Museum": "https://upload.wikimedia.org/wikipedia/commons/3/32/Pavillon_de_Flore%2C_Louvre_Museum%2C_Paris_5_November_2019.jpg"
+        }
     },
     {
         "id": 20,
@@ -382,7 +477,12 @@
         "nativeNames": [
             "España"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "505,992 sq km",
+        "topTouristAttractions": {
+            "Sagrada Familia": "https://upload.wikimedia.org/wikipedia/commons/5/57/Sagrada_Familia_8-12-21_%281%29.jpg",
+            "Alhambra": "https://upload.wikimedia.org/wikipedia/commons/d/de/Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg"
+        }
     },
     {
         "id": 21,
@@ -401,7 +501,12 @@
         "nativeNames": [
             "Argentina"
         ],
-        "timezone": "UTC-03:00"
+        "timezone": "UTC-03:00",
+        "area": "2,780,400 sq km",
+        "topTouristAttractions": {
+            "Iguazu Falls": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Iguacu_Falls_Argentine_side.JPG",
+            "Perito Moreno Glacier": "https://upload.wikimedia.org/wikipedia/commons/a/af/158_-_Glacier_Perito_Moreno_-_Bateau_et_glacier_-_Janvier_2010.jpg"
+        }
     },
     {
         "id": 22,
@@ -420,7 +525,12 @@
         "nativeNames": [
             "대한민국"
         ],
-        "timezone": "UTC+09:00"
+        "timezone": "UTC+09:00",
+        "area": "100,210 sq km",
+        "topTouristAttractions": {
+            "Gyeongbokgung Palace": "https://upload.wikimedia.org/wikipedia/commons/6/69/Gyeongbok-gung_palace-05_%28xndr%29.jpg",
+            "Jeju Island": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Jeju_Island.jpg"
+        }
     },
     {
         "id": 23,
@@ -439,7 +549,12 @@
         "nativeNames": [
             "السعودية"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "2,149,690 sq km",
+        "topTouristAttractions": {
+            "Mecca": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Makkah_Montage.jpg",
+            "Al-Ula": "https://upload.wikimedia.org/wikipedia/commons/9/93/Al_Ula_old_town%2C_Saudi_Arabia_2011.jpg"
+        }
     },
     {
         "id": 24,
@@ -458,7 +573,12 @@
         "nativeNames": [
             "Türkiye"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "783,356 sq km",
+        "topTouristAttractions": {
+            "Hagia Sophia": "https://upload.wikimedia.org/wikipedia/commons/2/22/Hagia_Sophia_Mars_2013.jpg",
+            "Cappadocia": "https://upload.wikimedia.org/wikipedia/commons/5/5c/House_in_Cappadocia_22.jpg"
+        }
     },
     {
         "id": 25,
@@ -477,7 +597,12 @@
         "nativeNames": [
             "Việt Nam"
         ],
-        "timezone": "UTC+07:00"
+        "timezone": "UTC+07:00",
+        "area": "331,212 sq km",
+        "topTouristAttractions": {
+            "Halong Bay": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Halong_ensemble_%28colour_corrected%29.jpg",
+            "Hoi An": "https://upload.wikimedia.org/wikipedia/commons/b/b1/H%E1%BB%99i_An%2C_Ancient_Town%2C_2020-01_CN-06.jpg"
+        }
     },
     {
         "id": 26,
@@ -496,7 +621,12 @@
         "nativeNames": [
             "ประเทศไทย"
         ],
-        "timezone": "UTC+07:00"
+        "timezone": "UTC+07:00",
+        "area": "513,120 sq km",
+        "topTouristAttractions": {
+            "Wat Arun": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Architectural_Detail_-_Wat_Arun_%2803%29.jpg",
+            "Phuket": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Phuket_Promthep_Cape.jpg"
+        }
     },
     {
         "id": 27,
@@ -515,7 +645,12 @@
         "nativeNames": [
             "Ελλάδα"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "131,957 sq km",
+        "topTouristAttractions": {
+            "Acropolis of Athens": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Attica_06-13_Athens_50_View_from_Philopappos_-_Acropolis_Hill.jpg",
+            "Santorini": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Palete_of_Santorini_Island._Greece%2C_Aegean_Sea.jpg"
+        }
     },
     {
         "id": 28,
@@ -535,7 +670,12 @@
         "nativeNames": [
             "Pilipinas"
         ],
-        "timezone": "UTC+08:00"
+        "timezone": "UTC+08:00",
+        "area": "300,000 sq km",
+        "topTouristAttractions": {
+            "Boracay": "https://upload.wikimedia.org/wikipedia/commons/e/ed/%22White_Beach%22_Boracay%2C_Philippinen.jpg",
+            "Chocolate Hills": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Chocolate_Hills_%28mendhak%29_001.jpg"
+        }
     },
     {
         "id": 29,
@@ -554,7 +694,12 @@
         "nativeNames": [
             "Malaysia"
         ],
-        "timezone": "UTC+08:00"
+        "timezone": "UTC+08:00",
+        "area": "330,803 sq km",
+        "topTouristAttractions": {
+            "Petronas Twin Towers": "https://upload.wikimedia.org/wikipedia/commons/7/74/Kuala_Lumpur_-_panoramio_%2818%29.jpg",
+            "Langkawi": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Langkawi_beach.jpg"
+        }
     },
     {
         "id": 30,
@@ -576,7 +721,12 @@
         "nativeNames": [
             "Singapore"
         ],
-        "timezone": "UTC+08:00"
+        "timezone": "UTC+08:00",
+        "area": "719.1 sq km",
+        "topTouristAttractions": {
+            "Gardens by the Bay": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Singapore_Gardens_by_the_Bay_viewed_from_Marina_Bay_Sands_08.jpg",
+            "Sentosa Island": "https://upload.wikimedia.org/wikipedia/commons/1/10/Sentosa_viewed_from_the_Carlsberg_Sky_Tower%2C_Singapore_-_20060716-03.jpg"
+        }
     },
     {
         "id": 31,
@@ -596,7 +746,12 @@
         "nativeNames": [
             "New Zealand"
         ],
-        "timezone": "UTC+12:00"
+        "timezone": "UTC+12:00",
+        "area": "268,021 sq km",
+        "topTouristAttractions": {
+            "Milford Sound": "https://upload.wikimedia.org/wikipedia/commons/d/da/Milford_Sound_in_Fiordland_National_Park_01.jpg",
+            "Hobbiton": "https://upload.wikimedia.org/wikipedia/commons/8/86/Hobbiton.jpg"
+        }
     },
     {
         "id": 32,
@@ -616,7 +771,12 @@
         "nativeNames": [
             "پاکستان"
         ],
-        "timezone": "UTC+05:00"
+        "timezone": "UTC+05:00",
+        "area": "881,913 sq km",
+        "topTouristAttractions": {
+            "Badshahi Mosque": "https://upload.wikimedia.org/wikipedia/commons/d/db/Badshahi_Mosque_%28Lahore%29.jpg",
+            "Karimabad": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Aerial_View_of_Karimabad%2C_Hunza.jpg"
+        }
     },
     {
         "id": 33,
@@ -641,7 +801,12 @@
             "Svizzera",
             "Svizra"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "41,290 sq km",
+        "topTouristAttractions": {
+            "Jungfraujoch": "https://upload.wikimedia.org/wikipedia/commons/3/37/Jungfreijoch.jpg",
+            "Zermatt": "https://upload.wikimedia.org/wikipedia/commons/1/17/Zermatt_and_Matterhorn.jpg"
+        }
     },
     {
         "id": 34,
@@ -660,7 +825,12 @@
         "nativeNames": [
             "Sverige"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "450,295 sq km",
+        "topTouristAttractions": {
+            "Stockholm Archipelago": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SS_Stockholm_August_2015_01.jpg",
+            "Icehotel": "https://upload.wikimedia.org/wikipedia/commons/4/44/Icehotel-se-01.JPG"
+        }
     },
     {
         "id": 35,
@@ -679,7 +849,12 @@
         "nativeNames": [
             "Україна"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "603,500 sq km",
+        "topTouristAttractions": {
+            "Chernobyl Exclusion Zone": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Chernobyl_Exclusion_Zone_forest_panorama.png",
+            "Lviv Old Town": "https://upload.wikimedia.org/wikipedia/commons/5/59/Lviv_Old_Town_2015_G01.jpg"
+        }
     },
     {
         "id": 36,
@@ -698,7 +873,12 @@
         "nativeNames": [
             "Nederland"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "41,543 sq km",
+        "topTouristAttractions": {
+            "Amsterdam Canals": "https://upload.wikimedia.org/wikipedia/commons/3/37/Amsterdam_Canals_-_July_2006.jpg",
+            "Zaanse Schans": "https://upload.wikimedia.org/wikipedia/commons/3/30/Windmills_at_Zaanse_Schans%2C_Zaanstad%2C_2022.jpg"
+        }
     },
     {
         "id": 37,
@@ -717,7 +897,12 @@
         "nativeNames": [
             "Polska"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "312,696 sq km",
+        "topTouristAttractions": {
+            "Wieliczka Salt Mine": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Wieliczka-daVinci.jpg",
+            "Krakow Old Town": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Krak%C3%B3w_-_Sukiennice_01.jpg"
+        }
     },
     {
         "id": 38,
@@ -740,7 +925,12 @@
             "Belgique",
             "Belgien"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "30,528 sq km",
+        "topTouristAttractions": {
+            "Grand Place": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Grand_Place%2C_Brussels%2C_Belgium.jpg",
+            "Bruges": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Brugge-CanalRozenhoedkaai.JPG"
+        }
     },
     {
         "id": 39,
@@ -759,7 +949,12 @@
         "nativeNames": [
             "Österreich"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "83,879 sq km",
+        "topTouristAttractions": {
+            "Schönbrunn Palace": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Palacio_de_Sch%C3%B6nbrunn%2C_Viena%2C_Austria%2C_2020-02-02%2C_DD_10.jpg",
+            "Hallstatt": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Hallstatt_-_Zentrum_.JPG"
+        }
     },
     {
         "id": 40,
@@ -778,7 +973,12 @@
         "nativeNames": [
             "Portugal"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "92,090 sq km",
+        "topTouristAttractions": {
+            "Pena Palace": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Palacio_Nacional_da_Pena%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_147.jpg",
+            "Douro Valley": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Portugal_Vall%C3%A9e_du_Douro_%288121915978%29.jpg"
+        }
     },
     {
         "id": 41,
@@ -797,7 +997,12 @@
         "nativeNames": [
             "Česko"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "78,866 sq km",
+        "topTouristAttractions": {
+            "Charles Bridge": "https://upload.wikimedia.org/wikipedia/commons/2/20/Prague_07-2016_View_from_Petrinska_Tower_img2.jpg",
+            "Český Krumlov": "https://upload.wikimedia.org/wikipedia/commons/0/0d/%C4%8Cesk%C3%BD_Krumlov_%28Krummau%29_-_panorama_-_old_city.JPG"
+        }
     },
     {
         "id": 42,
@@ -816,7 +1021,12 @@
         "nativeNames": [
             "Danmark"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "42,933 sq km",
+        "topTouristAttractions": {
+            "Tivoli Gardens": "https://upload.wikimedia.org/wikipedia/commons/5/50/Fountain_in_Tivoli_Gardens%2C_Copenhagen%2C_20220618_1307_7156.jpg",
+            "Nyhavn": "https://upload.wikimedia.org/wikipedia/commons/1/11/Nyhavn-panorama.jpg"
+        }
     },
     {
         "id": 43,
@@ -837,7 +1047,12 @@
             "Suomi",
             "Finland"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "338,424 sq km",
+        "topTouristAttractions": {
+            "Helsinki Cathedral": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lutheran_Cathedral_Helsinki.jpg",
+            "Northern Lights": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Maardu_Northern_lights_%E2%80%94_Estonia%2C_2022.jpg"
+        }
     },
     {
         "id": 44,
@@ -858,7 +1073,12 @@
             "Éire",
             "Ireland"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "70,273 sq km",
+        "topTouristAttractions": {
+            "Cliffs of Moher": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Ireland_cliffs_of_moher3_Pumbaa80.jpg",
+            "Guinness Storehouse": "https://upload.wikimedia.org/wikipedia/commons/a/af/Dublin_-_Guinness_Storehouse_-_20160507154420.jpg"
+        }
     },
     {
         "id": 45,
@@ -877,7 +1097,12 @@
         "nativeNames": [
             "România"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "238,397 sq km",
+        "topTouristAttractions": {
+            "Bran Castle": "https://upload.wikimedia.org/wikipedia/commons/0/06/Bran_castle_courtyard_round_tower.jpg",
+            "Peles Castle": "https://upload.wikimedia.org/wikipedia/commons/2/27/Castle_Pele%C5%9F_in_2009.jpg"
+        }
     },
     {
         "id": 46,
@@ -896,7 +1121,12 @@
         "nativeNames": [
             "Slovensko"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "49,035 sq km",
+        "topTouristAttractions": {
+            "Spiš Castle": "https://upload.wikimedia.org/wikipedia/commons/e/e2/SlovakiaPanorama.jpg",
+            "High Tatras": "https://upload.wikimedia.org/wikipedia/commons/6/63/High_Tatra_Mountains_from_%C5%A0trba.jpg"
+        }
     },
     {
         "id": 47,
@@ -915,7 +1145,12 @@
         "nativeNames": [
             "Magyarország"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "93,030 sq km",
+        "topTouristAttractions": {
+            "Fisherman's Bastion": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Fisherman%27s_Bastion_2014.jpg",
+            "Buda Castle": "https://upload.wikimedia.org/wikipedia/commons/3/35/20190502_Zamek_w_Budapeszcie_0647_1862_DxO.jpg"
+        }
     },
     {
         "id": 48,
@@ -934,7 +1169,12 @@
         "nativeNames": [
             "Hrvatska"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "56,594 sq km",
+        "topTouristAttractions": {
+            "Plitvice Lakes National Park": "https://upload.wikimedia.org/wikipedia/commons/6/67/Plitvice_Lakes_National_Park_BW_2014-10-13_13-07-14.jpg",
+            "Dubrovnik Old Town": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Dubrovnik_Old_Town_From_Min%C4%8Deta_Tower.jpg"
+        }
     },
     {
         "id": 49,
@@ -953,7 +1193,12 @@
         "nativeNames": [
             "България"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "110,994 sq km",
+        "topTouristAttractions": {
+            "Rila Monastery": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Religious_fresco_in_Rila_Monastery.jpg",
+            "Sofia Cathedral": "https://upload.wikimedia.org/wikipedia/commons/0/04/Alexander_Nevsky_Cathedral%2C_Sofia_%28by_Pudelek%29.JPG"
+        }
     },
     {
         "id": 50,
@@ -972,7 +1217,12 @@
         "nativeNames": [
             "Eesti"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "45,227 sq km",
+        "topTouristAttractions": {
+            "Tallinn Old Town": "https://upload.wikimedia.org/wikipedia/commons/6/64/Tallinna_vanalinn_p%C3%A4ikeset%C3%B5usu_ajal.jpg",
+            "Lahemaa National Park": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Viinistu%2C_Parque_Nacional_Lahemaa%2C_Estonia%2C_2012-08-12%2C_DD_20.JPG"
+        }
     },
     {
         "id": 51,
@@ -991,7 +1241,12 @@
         "nativeNames": [
             "Latvija"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "64,589 sq km",
+        "topTouristAttractions": {
+            "Riga Old Town": "https://upload.wikimedia.org/wikipedia/commons/5/52/Old_Riga_Vecr%C4%ABga_Town_Hall.jpg",
+            "Gauja National Park": "https://upload.wikimedia.org/wikipedia/commons/2/28/Gauja_River.jpg"
+        }
     },
     {
         "id": 52,
@@ -1010,7 +1265,12 @@
         "nativeNames": [
             "Lietuva"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "65,300 sq km",
+        "topTouristAttractions": {
+            "Trakai Island Castle": "https://upload.wikimedia.org/wikipedia/commons/2/29/Trakai-Troki.jpg",
+            "Curonian Spit": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Curonian_Spit_NP_05-2017_img17_aerial_view_at_Epha_Dune.jpg"
+        }
     },
     {
         "id": 53,
@@ -1033,7 +1293,12 @@
             "Luxembourg",
             "Luxemburg"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "2,586 sq km",
+        "topTouristAttractions": {
+            "Old Town": "https://upload.wikimedia.org/wikipedia/commons/4/44/Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg",
+            "Vianden Castle": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Vianden_chateau1.jpg"
+        }
     },
     {
         "id": 54,
@@ -1053,7 +1318,12 @@
         "nativeNames": [
             "Malta"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "316 sq km",
+        "topTouristAttractions": {
+            "Valletta": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Saint_Patrick%27s_Street_Valletta_%2870394%29.jpg",
+            "Blue Grotto": "https://upload.wikimedia.org/wikipedia/commons/2/23/Blue_Grotto_Malta-flickr_-_by_-_zoonabar.jpg"
+        }
     },
     {
         "id": 55,
@@ -1072,7 +1342,12 @@
         "nativeNames": [
             "Slovenija"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "20,273 sq km",
+        "topTouristAttractions": {
+            "Lake Bled": "https://upload.wikimedia.org/wikipedia/commons/8/86/Panorama_Bled_01.jpg",
+            "Postojna Cave": "https://upload.wikimedia.org/wikipedia/commons/1/11/Postojna_Cave._Concert_Hall._2012-07-26_13-43-03.jpg"
+        }
     },
     {
         "id": 56,
@@ -1093,7 +1368,12 @@
             "Κύπρος",
             "Kıbrıs"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "9,251 sq km",
+        "topTouristAttractions": {
+            "Paphos Archaeological Park": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Columns_in_Paphos_Archaeological_Park_2016_Nov_02_%280309%29.jpg",
+            "Troodos Mountains": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Forest_road_in_Troodos_Mountains%2C_Cyprus.jpg"
+        }
     },
     {
         "id": 57,
@@ -1112,7 +1392,12 @@
         "nativeNames": [
             "Andorra"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "468 sq km",
+        "topTouristAttractions": {
+            "Sant Joan de Caselles Church": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Saint_John_church_in_Caselles_%288%29.jpg",
+            "Vallnord Ski Resort": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Vallnord_Andorra_DiscGolf.jpg"
+        }
     },
     {
         "id": 58,
@@ -1131,7 +1416,12 @@
         "nativeNames": [
             "Liechtenstein"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "160 sq km",
+        "topTouristAttractions": {
+            "Vaduz Castle": "https://upload.wikimedia.org/wikipedia/commons/2/28/Liechtenstein_asv2022-10_img22_Vaduz_Schloss.jpg",
+            "Malbun": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Malbun_2.jpg"
+        }
     },
     {
         "id": 59,
@@ -1150,7 +1440,12 @@
         "nativeNames": [
             "Monaco"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "2.02 sq km",
+        "topTouristAttractions": {
+            "Monte Carlo Casino": "https://upload.wikimedia.org/wikipedia/commons/6/69/2023_%C5%BBeton_z_Casino_de_Monte-Carlo.jpg",
+            "Prince's Palace": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PrincePalace_of_Monaco.jpg"
+        }
     },
     {
         "id": 60,
@@ -1169,7 +1464,12 @@
         "nativeNames": [
             "San Marino"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "61 sq km",
+        "topTouristAttractions": {
+            "Guaita Tower": "https://upload.wikimedia.org/wikipedia/commons/3/37/Guaita_Fortress_-_San_Marino_-_2024_02_13_-_GT_02_%28details%29.jpg",
+            "Basilica of San Marino": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bas%C3%ADlica_del_Santo_Marino%2C_San_Marino%2C_2022-09-20%2C_DD_27-29_HDR.jpg"
+        }
     },
     {
         "id": 61,
@@ -1188,7 +1488,12 @@
         "nativeNames": [
             "Vaticano"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "0.44 sq km",
+        "topTouristAttractions": {
+            "St. Peter's Basilica": "https://upload.wikimedia.org/wikipedia/commons/9/92/Basilica_Sancti_Petri_blue_hour.jpg",
+            "Sistine Chapel": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sistina-interno.jpg"
+        }
     },
     {
         "id": 62,
@@ -1208,7 +1513,12 @@
         "nativeNames": [
             "افغانستان"
         ],
-        "timezone": "UTC+04:30"
+        "timezone": "UTC+04:30",
+        "area": "652,230 sq km",
+        "topTouristAttractions": {
+            "Bamiyan Valley": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bamiyan_Valley2.jpg",
+            "Band-e Amir National Park": "https://upload.wikimedia.org/wikipedia/commons/3/36/DSC8188-Pano_Band-E_Amir_National_Park.jpg"
+        }
     },
     {
         "id": 63,
@@ -1228,7 +1538,12 @@
         "nativeNames": [
             "الجزائر"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "2,381,741 sq km",
+        "topTouristAttractions": {
+            "Tassili n'Ajjer National Park": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Esprit_nomade.JPG",
+            "Djemila": "https://upload.wikimedia.org/wikipedia/commons/3/34/Roman_Ruins_of_Djemila_in_S%C3%A9tif%2C_Algeria.jpg"
+        }
     },
     {
         "id": 64,
@@ -1247,7 +1562,12 @@
         "nativeNames": [
             "Angola"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "1,246,700 sq km",
+        "topTouristAttractions": {
+            "Kalandula Falls": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kalandula_waterfalls_of_the_Lucala-River_in_Malange%2C_Angola.JPG",
+            "Iona National Park": "https://upload.wikimedia.org/wikipedia/commons/1/11/Imbondeiro_Tree.jpg"
+        }
     },
     {
         "id": 65,
@@ -1266,7 +1586,12 @@
         "nativeNames": [
             "Antigua and Barbuda"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "442 sq km",
+        "topTouristAttractions": {
+            "Shirley Heights": "https://upload.wikimedia.org/wikipedia/commons/7/75/AG-shirley-heights-blick.jpg",
+            "Nelson's Dockyard": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nelson%27s_Dockyard.jpg"
+        }
     },
     {
         "id": 66,
@@ -1285,7 +1610,12 @@
         "nativeNames": [
             "Հայաստան"
         ],
-        "timezone": "UTC+04:00"
+        "timezone": "UTC+04:00",
+        "area": "29,743 sq km",
+        "topTouristAttractions": {
+            "Tatev Monastery": "https://upload.wikimedia.org/wikipedia/commons/7/79/Monasterio_de_Tatev%2C_Armenia%2C_2016-10-01%2C_DD_89-91_HDR.jpg",
+            "Geghard Monastery": "https://upload.wikimedia.org/wikipedia/commons/d/d4/2014_Prowincja_Kotajk%2C_Klasztor_Geghard_%2802%29.jpg"
+        }
     },
     {
         "id": 67,
@@ -1304,7 +1634,12 @@
         "nativeNames": [
             "Azərbaycan"
         ],
-        "timezone": "UTC+04:00"
+        "timezone": "UTC+04:00",
+        "area": "86,600 sq km",
+        "topTouristAttractions": {
+            "Old City (Icherisheher)": "https://upload.wikimedia.org/wikipedia/commons/7/71/New_city_and_old_city.jpg",
+            "Gobustan National Park": "https://upload.wikimedia.org/wikipedia/commons/6/67/Gobustan_National_Park%2C_water-well_for_cattle.jpg"
+        }
     },
     {
         "id": 68,
@@ -1323,7 +1658,12 @@
         "nativeNames": [
             "البحرين"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "780 sq km",
+        "topTouristAttractions": {
+            "Bahrain Fort": "https://upload.wikimedia.org/wikipedia/commons/8/83/Bahrain_Fort_March_2015.JPG",
+            "Al Fateh Grand Mosque": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Grand_mosque_in_Bahrain.jpg"
+        }
     },
     {
         "id": 69,
@@ -1342,7 +1682,12 @@
         "nativeNames": [
             "Barbados"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "430 sq km",
+        "topTouristAttractions": {
+            "Harrison's Cave": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Harrisons_Cave_%286976862065%29.jpg",
+            "Bathsheba Beach": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Bathsheba-beach.jpg"
+        }
     },
     {
         "id": 70,
@@ -1362,7 +1707,12 @@
         "nativeNames": [
             "Беларусь"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "207,600 sq km",
+        "topTouristAttractions": {
+            "Mir Castle": "https://upload.wikimedia.org/wikipedia/commons/d/d6/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81_%D0%9C%D0%B8%D1%80%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0.JPG",
+            "Nesvizh Castle": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Belarus_Nesvizh_Castle_7259_2050.jpg"
+        }
     },
     {
         "id": 71,
@@ -1381,7 +1731,12 @@
         "nativeNames": [
             "Belize"
         ],
-        "timezone": "UTC-06:00"
+        "timezone": "UTC-06:00",
+        "area": "22,966 sq km",
+        "topTouristAttractions": {
+            "Great Blue Hole": "https://upload.wikimedia.org/wikipedia/commons/6/61/Great_Blue_Hole.jpg",
+            "Xunantunich": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Xunantunich_Belize.jpg"
+        }
     },
     {
         "id": 72,
@@ -1400,7 +1755,12 @@
         "nativeNames": [
             "Bénin"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "114,763 sq km",
+        "topTouristAttractions": {
+            "Royal Palaces of Abomey": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Abomey_2006_1.jpg",
+            "Pendjari National Park": "https://upload.wikimedia.org/wikipedia/commons/0/08/Alcelaphus_buselaphus_herd.png"
+        }
     },
     {
         "id": 73,
@@ -1419,7 +1779,12 @@
         "nativeNames": [
             "འབྲུག་ཡུལ་"
         ],
-        "timezone": "UTC+06:00"
+        "timezone": "UTC+06:00",
+        "area": "38,394 sq km",
+        "topTouristAttractions": {
+            "Tiger's Nest Monastery": "https://upload.wikimedia.org/wikipedia/commons/0/01/Paro_Taktsang_trail_08.jpg",
+            "Punakha Dzong": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Punakha_Dzong%2C_Bhutan_02.jpg"
+        }
     },
     {
         "id": 74,
@@ -1440,7 +1805,12 @@
         "nativeNames": [
             "Bolivia"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "1,098,581 sq km",
+        "topTouristAttractions": {
+            "Salar de Uyuni": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Piles_of_Salt_Salar_de_Uyuni_Bolivia_Luca_Galuzzi_2006_a.jpg",
+            "Tiwanaku": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Zonnepoort_tiwanaku.jpg"
+        }
     },
     {
         "id": 75,
@@ -1461,7 +1831,12 @@
         "nativeNames": [
             "Bosna i Hercegovina"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "51,197 sq km",
+        "topTouristAttractions": {
+            "Old Bridge (Stari Most)": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mostar_Old_Town_Panorama_2007.jpg",
+            "Kravice Waterfalls": "https://upload.wikimedia.org/wikipedia/commons/5/57/Kravica_111549.jpg"
+        }
     },
     {
         "id": 76,
@@ -1481,7 +1856,12 @@
         "nativeNames": [
             "Botswana"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "581,730 sq km",
+        "topTouristAttractions": {
+            "Chobe National Park": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Lion_%28Panthera_leo%29_old_male_Chobe.jpg",
+            "Makgadikgadi Pans": "https://upload.wikimedia.org/wikipedia/commons/9/94/C%C3%A1laos_de_pico_rojo_del_sur_%28Tockus_rufirostris%29%2C_parque_nacional_Makgadikgadi_Pans%2C_Botsuana%2C_2018-07-30%2C_DD_14.jpg"
+        }
     },
     {
         "id": 77,
@@ -1500,7 +1880,12 @@
         "nativeNames": [
             "Brunei"
         ],
-        "timezone": "UTC+08:00"
+        "timezone": "UTC+08:00",
+        "area": "5,765 sq km",
+        "topTouristAttractions": {
+            "Sultan Omar Ali Saifuddien Mosque": "https://upload.wikimedia.org/wikipedia/commons/5/59/Sultan_Omar_Ali_Saifuddin_Mosque_02.jpg",
+            "Ulu Temburong National Park": "https://upload.wikimedia.org/wikipedia/commons/1/13/Long_way_to_go....jpg"
+        }
     },
     {
         "id": 78,
@@ -1519,7 +1904,12 @@
         "nativeNames": [
             "Burkina Faso"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "274,200 sq km",
+        "topTouristAttractions": {
+            "Ruins of Loropéni": "https://upload.wikimedia.org/wikipedia/commons/a/ac/2016.05-441-131ap_wall_Lorop%C3%A9ni_Ruins_nr.Lorop%C3%A9ni%28Poni_Prv.%29%2CBF_sun15may2016-1106h.jpg",
+            "Nazinga Game Ranch": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Elephant_nazinga_juillet2010.jpg"
+        }
     },
     {
         "id": 79,
@@ -1539,7 +1929,12 @@
         "nativeNames": [
             "Uburundi"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "27,834 sq km",
+        "topTouristAttractions": {
+            "Rusizi National Park": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Rusizi_NP_hippopotamus.jpg",
+            "Gishora Drum Sanctuary": "https://upload.wikimedia.org/wikipedia/commons/7/75/Gishora_sanctuary-Burundi_Tour.jpg"
+        }
     },
     {
         "id": 80,
@@ -1558,7 +1953,12 @@
         "nativeNames": [
             "កម្ពុជា"
         ],
-        "timezone": "UTC+07:00"
+        "timezone": "UTC+07:00",
+        "area": "181,035 sq km",
+        "topTouristAttractions": {
+            "Angkor Wat": "https://upload.wikimedia.org/wikipedia/commons/e/eb/2014-Cambodge_Angkor_Wat_%2821%29.jpg",
+            "Royal Palace, Phnom Penh": "https://upload.wikimedia.org/wikipedia/commons/a/ad/2016_Phnom_Penh%2C_Pa%C5%82ac_Kr%C3%B3lewski%2C_Preah_Tineang_Phhochani_%2814%29.jpg"
+        }
     },
     {
         "id": 81,
@@ -1578,7 +1978,12 @@
         "nativeNames": [
             "Cameroun"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "475,442 sq km",
+        "topTouristAttractions": {
+            "Waza National Park": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Un_puits_%C3%A0_Waza_en_d%C3%A9cembre_1973_%282%29.jpg",
+            "Mount Cameroon": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Mount_Cameroon_%28ASTER%29.jpg"
+        }
     },
     {
         "id": 82,
@@ -1597,7 +2002,12 @@
         "nativeNames": [
             "Cabo Verde"
         ],
-        "timezone": "UTC-01:00"
+        "timezone": "UTC-01:00",
+        "area": "4,033 sq km",
+        "topTouristAttractions": {
+            "Pico do Fogo": "https://upload.wikimedia.org/wikipedia/commons/a/af/Fogo%2C_Cape_Verde_Islands.jpg",
+            "Praia de Santa Maria": "https://upload.wikimedia.org/wikipedia/commons/4/47/Wreck_of_Cabo_de_Santa_Maria%2C_2010_December_-_4.jpg"
+        }
     },
     {
         "id": 83,
@@ -1617,7 +2027,12 @@
         "nativeNames": [
             "République centrafricaine"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "622,984 sq km",
+        "topTouristAttractions": {
+            "Dzanga-Sangha National Park": "https://upload.wikimedia.org/wikipedia/commons/8/84/Central-African-Republic-Dzanga-Sangha-National-Park-Bayanga-elephants-banner.jpg",
+            "Boali Waterfalls": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Republique_Centrafricaine_-_Boali_-_Chutes_de_Boali.jpg"
+        }
     },
     {
         "id": 84,
@@ -1637,7 +2052,12 @@
         "nativeNames": [
             "Tchad"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "1,284,000 sq km",
+        "topTouristAttractions": {
+            "Zakouma National Park": "https://upload.wikimedia.org/wikipedia/commons/3/32/Zakouma_Wikivoyage_Banner.jpg",
+            "Ennedi Plateau": "https://upload.wikimedia.org/wikipedia/commons/2/24/Guelta_Maya%2C_Ennedi%2C_Tschad.jpg"
+        }
     },
     {
         "id": 85,
@@ -1656,7 +2076,12 @@
         "nativeNames": [
             "Chile"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "756,102 sq km",
+        "topTouristAttractions": {
+            "Easter Island": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Easter_Island_map-fr.svg",
+            "Torres del Paine National Park": "https://upload.wikimedia.org/wikipedia/commons/7/76/Cuernos_del_Paine_in_Torres_del_Paine_National_Park.jpg"
+        }
     },
     {
         "id": 86,
@@ -1675,7 +2100,12 @@
         "nativeNames": [
             "Colombia"
         ],
-        "timezone": "UTC-05:00"
+        "timezone": "UTC-05:00",
+        "area": "1,141,748 sq km",
+        "topTouristAttractions": {
+            "Cartagena": "https://upload.wikimedia.org/wikipedia/commons/4/43/Bater%C3%ADa_de_Castillitos%2C_Cartagena%2C_Espa%C3%B1a%2C_2022-07-16%2C_DD_67-69_HDR-Edit.jpg",
+            "Tayrona National Park": "https://upload.wikimedia.org/wikipedia/commons/9/94/124_Tayrona_National_Park_Colombia.JPG"
+        }
     },
     {
         "id": 87,
@@ -1696,7 +2126,12 @@
         "nativeNames": [
             "Komori"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "1,861 sq km",
+        "topTouristAttractions": {
+            "Mount Karthala": "https://upload.wikimedia.org/wikipedia/commons/7/71/Karthala_volcano-Comoros.jpg",
+            "Moheli Marine Park": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Ouallah-Moh%C3%A9li-Corail.jpg"
+        }
     },
     {
         "id": 88,
@@ -1715,7 +2150,12 @@
         "nativeNames": [
             "Congo"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "342,000 sq km",
+        "topTouristAttractions": {
+            "Odzala-Kokoua National Park": "https://upload.wikimedia.org/wikipedia/commons/1/18/Primage2.jpg",
+            "Lesio-Louna Gorilla Reserve": "Cannot find images"
+        }
     },
     {
         "id": 89,
@@ -1734,7 +2174,12 @@
         "nativeNames": [
             "Costa Rica"
         ],
-        "timezone": "UTC-06:00"
+        "timezone": "UTC-06:00",
+        "area": "51,100 sq km",
+        "topTouristAttractions": {
+            "Arenal Volcano": "https://upload.wikimedia.org/wikipedia/commons/6/64/Arenal_Volcano_02.jpg",
+            "Manuel Antonio National Park": "https://upload.wikimedia.org/wikipedia/commons/4/43/Parque_Nacional_Manuel_Antonio_02.jpg"
+        }
     },
     {
         "id": 90,
@@ -1753,7 +2198,12 @@
         "nativeNames": [
             "Cuba"
         ],
-        "timezone": "UTC-05:00"
+        "timezone": "UTC-05:00",
+        "area": "109,884 sq km",
+        "topTouristAttractions": {
+            "Old Havana": "https://upload.wikimedia.org/wikipedia/commons/9/92/A_95_year_old_woman_with_her_pet_rooster%2C_Havana%2C_Cuba.jpg",
+            "Varadero Beach": "https://upload.wikimedia.org/wikipedia/commons/9/93/Varadero_Beach_-_Views.jpg"
+        }
     },
     {
         "id": 91,
@@ -1774,7 +2224,12 @@
             "جيبوتي",
             "Djibouti"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "23,200 sq km",
+        "topTouristAttractions": {
+            "Lake Assal": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Assal_Lake%2C_2024.jpg",
+            "Ardoukoba Volcano": "https://upload.wikimedia.org/wikipedia/commons/a/af/Ardoukoba_Crater_Dec_2015.jpg"
+        }
     },
     {
         "id": 92,
@@ -1793,7 +2248,12 @@
         "nativeNames": [
             "Dominica"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "751 sq km",
+        "topTouristAttractions": {
+            "Boiling Lake": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Dominica_boiling_lake.jpg",
+            "Trafalgar Falls": "https://upload.wikimedia.org/wikipedia/commons/8/86/Trafalgar_Falls_at_Morne_Trois_Pitons_National_Park.jpg"
+        }
     },
     {
         "id": 93,
@@ -1812,7 +2272,12 @@
         "nativeNames": [
             "República Dominicana"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "48,670 sq km",
+        "topTouristAttractions": {
+            "Punta Cana": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Punta_Cana_29_april_2012.jpg",
+            "Santo Domingo Colonial Zone": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zona_Colonial_-_Santo_Domingo%2C_Dominican_Republic.jpg"
+        }
     },
     {
         "id": 94,
@@ -1832,7 +2297,12 @@
         "nativeNames": [
             "Timor-Leste"
         ],
-        "timezone": "UTC+09:00"
+        "timezone": "UTC+09:00",
+        "area": "14,874 sq km",
+        "topTouristAttractions": {
+            "Atauro Island": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Atauro.jpg",
+            "Tasi Tolu": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Tasi_Tolu%2C_Timor-Leste_-_panoramio.jpg"
+        }
     },
     {
         "id": 95,
@@ -1851,7 +2321,12 @@
         "nativeNames": [
             "Ecuador"
         ],
-        "timezone": "UTC-05:00"
+        "timezone": "UTC-05:00",
+        "area": "283,561 sq km",
+        "topTouristAttractions": {
+            "Galapagos Islands": "https://upload.wikimedia.org/wikipedia/commons/6/64/Lobo_marino_%28Zalophus_californianus_wollebaeki%29%2C_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_11.JPG",
+            "Quilotoa Crater Lake": "https://upload.wikimedia.org/wikipedia/commons/5/52/Quilotoa_crater_lake%2C_Ecuador%2C_Jan_2010.jpg"
+        }
     },
     {
         "id": 96,
@@ -1870,7 +2345,12 @@
         "nativeNames": [
             "El Salvador"
         ],
-        "timezone": "UTC-06:00"
+        "timezone": "UTC-06:00",
+        "area": "21,041 sq km",
+        "topTouristAttractions": {
+            "Ruta de las Flores": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ruta_de_las_Flores_banner.jpg",
+            "Santa Ana Volcano": "https://upload.wikimedia.org/wikipedia/commons/3/36/Santa_Ana_Volcano.USAF.C-130.1.jpg"
+        }
     },
     {
         "id": 97,
@@ -1891,7 +2371,12 @@
         "nativeNames": [
             "Guinea Ecuatorial"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "28,051 sq km",
+        "topTouristAttractions": {
+            "Bioko Island": "https://upload.wikimedia.org/wikipedia/commons/d/df/Bioko_BMNG.png",
+            "Monte Alen National Park": "https://upload.wikimedia.org/wikipedia/commons/9/96/Nationalpark_Monte_Al%C3%A9n_%28Tafel%29.jpg"
+        }
     },
     {
         "id": 98,
@@ -1913,7 +2398,12 @@
             "ኤርትራ",
             "إريتريا"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "117,600 sq km",
+        "topTouristAttractions": {
+            "Dahlak Archipelago": "https://upload.wikimedia.org/wikipedia/commons/7/76/Dahlak_Islands_ISS042.jpg",
+            "Asmara": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Asmara2.jpg"
+        }
     },
     {
         "id": 99,
@@ -1933,7 +2423,12 @@
         "nativeNames": [
             "Eswatini"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "17,364 sq km",
+        "topTouristAttractions": {
+            "Mlilwane Wildlife Sanctuary": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Plains_zebra_in_Mlilwane_Wildlife_Sanctuary_02.jpg",
+            "Hlane Royal National Park": "https://upload.wikimedia.org/wikipedia/commons/6/61/Hlane-Basic-Hide-At-Hippo-Pool.JPG"
+        }
     },
     {
         "id": 100,
@@ -1952,7 +2447,12 @@
         "nativeNames": [
             "ኢትዮጵያ"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "1,104,300 sq km",
+        "topTouristAttractions": {
+            "Simien Mountains National Park": "https://upload.wikimedia.org/wikipedia/commons/2/24/Semien_Mountains_02.jpg",
+            "Lalibela": "https://upload.wikimedia.org/wikipedia/commons/f/f8/1_Ethiopian_Orthodox_Priest.tif"
+        }
     },
     {
         "id": 101,
@@ -1973,7 +2473,12 @@
         "nativeNames": [
             "Fiji"
         ],
-        "timezone": "UTC+12:00"
+        "timezone": "UTC+12:00",
+        "area": "18,274 sq km",
+        "topTouristAttractions": {
+            "Mamanuca Islands": "https://upload.wikimedia.org/wikipedia/commons/c/c3/2004.03.20_Mamanucas_Fiji.jpg",
+            "Sigatoka Sand Dunes National Park": "https://upload.wikimedia.org/wikipedia/commons/2/28/A177%2C_Sigatoka_Sand_Dunes_National_Park%2C_Viti_Levu%2C_Fiji%2C_2007.JPG"
+        }
     },
     {
         "id": 102,
@@ -1992,7 +2497,12 @@
         "nativeNames": [
             "Gabon"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "267,668 sq km",
+        "topTouristAttractions": {
+            "Loango National Park": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Gabon_Loango_National_Park_Elephant_with_offspring.jpeg",
+            "Lopé National Park": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Lop%C3%A9_National_Park_river_crop.jpg"
+        }
     },
     {
         "id": 103,
@@ -2011,7 +2521,12 @@
         "nativeNames": [
             "Gambia"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "10,689 sq km",
+        "topTouristAttractions": {
+            "Kunta Kinteh Island": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Kunta_Kinteh_Island_seen_from_Albadar_beach.jpg",
+            "Abuko Nature Reserve": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Gambia_abuko_001.jpg"
+        }
     },
     {
         "id": 104,
@@ -2030,7 +2545,12 @@
         "nativeNames": [
             "Ghana"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "238,535 sq km",
+        "topTouristAttractions": {
+            "Cape Coast Castle": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Castle%2C_Cape_Coast_%28P1100223%29.jpg",
+            "Kakum National Park": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Kakum_National_Park%2C_Jukwa_%28P1100159-Pano%29.jpg"
+        }
     },
     {
         "id": 105,
@@ -2049,7 +2569,12 @@
         "nativeNames": [
             "Grenada"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "344 sq km",
+        "topTouristAttractions": {
+            "Grand Anse Beach": "https://upload.wikimedia.org/wikipedia/commons/3/30/Grand_Anse-La_Digue-Seychellen.jpg",
+            "Concord Waterfalls": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Concord_waterfall_2024-01-24_2.jpg"
+        }
     },
     {
         "id": 106,
@@ -2068,7 +2593,12 @@
         "nativeNames": [
             "Guatemala"
         ],
-        "timezone": "UTC-06:00"
+        "timezone": "UTC-06:00",
+        "area": "108,889 sq km",
+        "topTouristAttractions": {
+            "Tikal": "https://upload.wikimedia.org/wikipedia/commons/0/06/Tikal_Temple1_2006_08_11.JPG",
+            "Lake Atitlán": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Atitlan_Lake.jpg"
+        }
     },
     {
         "id": 107,
@@ -2087,7 +2617,12 @@
         "nativeNames": [
             "Guinée"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "245,857 sq km",
+        "topTouristAttractions": {
+            "Mount Nimba Strict Nature Reserve": "https://upload.wikimedia.org/wikipedia/commons/4/44/Mount_Nimba_Strict_Nature_Reserve-123989.jpg",
+            "Îles de Los": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Los_island_SPOT_1386.jpg"
+        }
     },
     {
         "id": 108,
@@ -2106,7 +2641,12 @@
         "nativeNames": [
             "Guiné-Bissau"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "36,125 sq km",
+        "topTouristAttractions": {
+            "Bijagós Islands": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Mahindra_Gambia_tractor%2C_Bijagos_Archipelago%2C_Guinea-Bissau.jpg",
+            "Orango National Park": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Lagoa_com_hipop%C3%B3tamos_03_%28cropped%29.jpg"
+        }
     },
     {
         "id": 109,
@@ -2125,7 +2665,12 @@
         "nativeNames": [
             "Guyana"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "214,969 sq km",
+        "topTouristAttractions": {
+            "Kaieteur Falls": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Kaieteur_Falls_Guyana_%282%29_2007.jpg",
+            "Iwokrama Forest": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Iwokrama_Rainforest%2C_Guyana_%2812179003713%29.jpg"
+        }
     },
     {
         "id": 110,
@@ -2145,7 +2690,12 @@
         "nativeNames": [
             "Haïti"
         ],
-        "timezone": "UTC-05:00"
+        "timezone": "UTC-05:00",
+        "area": "27,750 sq km",
+        "topTouristAttractions": {
+            "Citadelle Laferrière": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Citadelle_Laferri%C3%A8re_Aerial_View.jpg",
+            "Jacmel": "https://upload.wikimedia.org/wikipedia/commons/0/0f/JacmelView.jpg"
+        }
     },
     {
         "id": 111,
@@ -2164,7 +2714,12 @@
         "nativeNames": [
             "Honduras"
         ],
-        "timezone": "UTC-06:00"
+        "timezone": "UTC-06:00",
+        "area": "112,492 sq km",
+        "topTouristAttractions": {
+            "Copán Ruins": "https://upload.wikimedia.org/wikipedia/commons/5/52/A_glimpse_of_Guatemala_-_Sketch-map_of_the_site_of_the_Ruins_at_Copan.png",
+            "Roatán Island": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Island_Saloon_Roatan_Honduras_2008.jpg"
+        }
     },
     {
         "id": 112,
@@ -2183,7 +2738,12 @@
         "nativeNames": [
             "Ísland"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "103,000 sq km",
+        "topTouristAttractions": {
+            "Blue Lagoon": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Blue_Lagoon_with_%C3%9Eorbj%C3%B6rn%2C_Iceland%2C_20230430_1626_3692.jpg",
+            "Gullfoss Waterfall": "https://upload.wikimedia.org/wikipedia/commons/8/81/Gullfoss%2C_Su%C3%B0urland%2C_Islandia%2C_2014-08-16%2C_DD_119.JPG"
+        }
     },
     {
         "id": 113,
@@ -2202,7 +2762,12 @@
         "nativeNames": [
             "ایران"
         ],
-        "timezone": "UTC+03:30"
+        "timezone": "UTC+03:30",
+        "area": "1,648,195 sq km",
+        "topTouristAttractions": {
+            "Persepolis": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Pers%C3%A9polis%2C_Ir%C3%A1n%2C_2016-09-24%2C_DD_56.jpg",
+            "Isfahan": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Naghshe_Jahan_Square_Isfahan_modified.jpg"
+        }
     },
     {
         "id": 114,
@@ -2222,7 +2787,12 @@
         "nativeNames": [
             "العراق"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "438,317 sq km",
+        "topTouristAttractions": {
+            "Erbil Citadel": "https://upload.wikimedia.org/wikipedia/commons/6/68/Archaeological_Erbil_Citadel_wall_archaeological.jpg",
+            "Hatra": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Hatra_ruins.jpg"
+        }
     },
     {
         "id": 115,
@@ -2243,7 +2813,12 @@
             "יִשְׂרָאֵל",
             "إسرائيل"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "22,072 sq km",
+        "topTouristAttractions": {
+            "Western Wall": "https://upload.wikimedia.org/wikipedia/commons/f/f1/PikiWiki_Israel_47231_Revealing_of_the_Western_Wall_.jpg",
+            "Masada": "https://upload.wikimedia.org/wikipedia/commons/1/14/Israel-2013-Aerial_21-Masada.jpg"
+        }
     },
     {
         "id": 116,
@@ -2262,7 +2837,12 @@
         "nativeNames": [
             "Côte d’Ivoire"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "322,463 sq km",
+        "topTouristAttractions": {
+            "Basilica of Our Lady of Peace": "https://upload.wikimedia.org/wikipedia/commons/c/c6/WikiConvFr23_%C3%A0_Abidjan_en_cote_d%27Ivoir-_viste_sur_Basilique_Notre-Dame-de-la-Paix_de_Yamoussoukro_%C3%A0_Abidjan_05.jpg",
+            "Comoe National Park": "https://upload.wikimedia.org/wikipedia/commons/0/03/Comoe_National_Park_banner.jpg"
+        }
     },
     {
         "id": 117,
@@ -2281,7 +2861,12 @@
         "nativeNames": [
             "Jamaica"
         ],
-        "timezone": "UTC-05:00"
+        "timezone": "UTC-05:00",
+        "area": "10,991 sq km",
+        "topTouristAttractions": {
+            "Dunn's River Falls": "https://upload.wikimedia.org/wikipedia/commons/4/41/Dunns_River_Falls_climb.JPG",
+            "Blue Mountains": "https://upload.wikimedia.org/wikipedia/commons/d/de/Blue_Mountains_National_Park_%28AU%29%2C_Three_Sisters_--_2019_--_1987-9.jpg"
+        }
     },
     {
         "id": 118,
@@ -2300,7 +2885,12 @@
         "nativeNames": [
             "الأردن"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "89,342 sq km",
+        "topTouristAttractions": {
+            "Petra": "https://upload.wikimedia.org/wikipedia/commons/8/87/Petra_Jordan_BW_0.jpg",
+            "Wadi Rum": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wadi_Rum_BW_16.JPG"
+        }
     },
     {
         "id": 119,
@@ -2320,7 +2910,12 @@
         "nativeNames": [
             "Қазақстан"
         ],
-        "timezone": "UTC+06:00"
+        "timezone": "UTC+06:00",
+        "area": "2,724,900 sq km",
+        "topTouristAttractions": {
+            "Charyn Canyon": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Charyn_Canyon%2C_Kazakhstan_03.jpg",
+            "Big Almaty Lake": "https://upload.wikimedia.org/wikipedia/commons/2/20/Big_Almaty_Lake_Winter.jpg"
+        }
     },
     {
         "id": 120,
@@ -2340,7 +2935,12 @@
         "nativeNames": [
             "Kenya"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "580,367 sq km",
+        "topTouristAttractions": {
+            "Maasai Mara National Reserve": "https://upload.wikimedia.org/wikipedia/commons/5/53/Masai_Mara_National_Reserve_20_-_Mara_river_crossing.jpg",
+            "Mount Kenya": "https://upload.wikimedia.org/wikipedia/commons/2/25/Mount_kenya.JPG"
+        }
     },
     {
         "id": 121,
@@ -2361,7 +2961,12 @@
         "nativeNames": [
             "Kiribati"
         ],
-        "timezone": "UTC+12:00"
+        "timezone": "UTC+12:00",
+        "area": "811 sq km",
+        "topTouristAttractions": {
+            "Christmas Island": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Crab_migration_extra_-_chris_bray-1.jpg",
+            "Phoenix Islands Protected Area": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Phoenix_Islands_Protected_Area-114883.jpg"
+        }
     },
     {
         "id": 122,
@@ -2380,7 +2985,12 @@
         "nativeNames": [
             "الكويت"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "17,818 sq km",
+        "topTouristAttractions": {
+            "Kuwait Towers": "https://upload.wikimedia.org/wikipedia/commons/d/df/Kuwait_towers.jpg",
+            "Failaka Island": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Az_Zaur_%28town%29_on_Failaka_Island%2C_Kuwait.jpg"
+        }
     },
     {
         "id": 123,
@@ -2400,7 +3010,12 @@
         "nativeNames": [
             "Кыргызстан"
         ],
-        "timezone": "UTC+06:00"
+        "timezone": "UTC+06:00",
+        "area": "199,951 sq km",
+        "topTouristAttractions": {
+            "Issyk-Kul Lake": "https://upload.wikimedia.org/wikipedia/commons/5/58/Lake_Issyk-Kul%2C_Kyrgyzstan.jpg",
+            "Ala Archa National Park": "https://upload.wikimedia.org/wikipedia/commons/6/69/%D0%90%D0%BB%D0%B0-%D0%90%D1%80%D1%87%D0%B0_%D1%81%D0%B2%D0%B5%D1%80%D1%85%D1%83_%281%29.jpg"
+        }
     },
     {
         "id": 124,
@@ -2419,7 +3034,12 @@
         "nativeNames": [
             "ປະເທດລາວ"
         ],
-        "timezone": "UTC+07:00"
+        "timezone": "UTC+07:00",
+        "area": "236,800 sq km",
+        "topTouristAttractions": {
+            "Luang Prabang": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Pirogue_and_boat_on_the_Mekong_with_colorful_sky_at_sunset_in_Luang_Prabang_Laos.jpg",
+            "Kuang Si Falls": "https://upload.wikimedia.org/wikipedia/commons/0/05/Kuang_Si_Falls_and_a_turquoise_water_pool_in_Luang_Prabang_province_Laos.jpg"
+        }
     },
     {
         "id": 125,
@@ -2438,7 +3058,12 @@
         "nativeNames": [
             "لبنان"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "10,452 sq km",
+        "topTouristAttractions": {
+            "Jeita Grotto": "https://upload.wikimedia.org/wikipedia/commons/0/09/Upper_Jeita_Grotto.jpg",
+            "Baalbek": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Pano_Baalbek_1.jpg"
+        }
     },
     {
         "id": 126,
@@ -2459,7 +3084,12 @@
         "nativeNames": [
             "Lesotho"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "30,355 sq km",
+        "topTouristAttractions": {
+            "Sani Pass": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sani_Pass_heading_into_Lesotho.jpg",
+            "Maletsunyane Falls": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Maletsunyanefalls.JPG"
+        }
     },
     {
         "id": 127,
@@ -2478,7 +3108,12 @@
         "nativeNames": [
             "Liberia"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "111,369 sq km",
+        "topTouristAttractions": {
+            "Sapo National Park": "https://upload.wikimedia.org/wikipedia/commons/4/48/Zwergflusspferd_-_Pygmy_Hippopotamus_-_Hexaprotodon_liberiensis.jpg",
+            "Kpatawee Waterfall": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Front_View_of_Kpatawee_Falls.jpg"
+        }
     },
     {
         "id": 128,
@@ -2497,7 +3132,12 @@
         "nativeNames": [
             "ليبيا"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "1,759,540 sq km",
+        "topTouristAttractions": {
+            "Leptis Magna": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ulpia_Traiana_Sarmizegetusa_%28by_Pudelek%29_01.jpg",
+            "Ghadames": "https://upload.wikimedia.org/wikipedia/commons/0/06/Libya_4432_Ghadames_Luca_Galuzzi_2007.jpg"
+        }
     },
     {
         "id": 129,
@@ -2517,7 +3157,12 @@
         "nativeNames": [
             "Madagasikara"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "587,041 sq km",
+        "topTouristAttractions": {
+            "Avenue of the Baobabs": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Adansonia_grandidieri04.jpg",
+            "Andasibe-Mantadia National Park": "https://upload.wikimedia.org/wikipedia/commons/2/26/Andasibe-Mantadia_National_Park_2013_38.jpg"
+        }
     },
     {
         "id": 130,
@@ -2537,7 +3182,12 @@
         "nativeNames": [
             "Malawi"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "118,484 sq km",
+        "topTouristAttractions": {
+            "Lake Malawi": "https://upload.wikimedia.org/wikipedia/commons/5/51/Canoes_on_Lake_Malawi.jpg",
+            "Majete Wildlife Reserve": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Majete_Wildlife_Reserve_Entrance.jpg"
+        }
     },
     {
         "id": 131,
@@ -2556,7 +3206,12 @@
         "nativeNames": [
             "ދިވެހި"
         ],
-        "timezone": "UTC+05:00"
+        "timezone": "UTC+05:00",
+        "area": "298 sq km",
+        "topTouristAttractions": {
+            "Ari Atoll": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ari_Atoll%2C_Maldives_ESA22111096.jpeg",
+            "Manta Point": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Turkey_quilt_square_2.jpg"
+        }
     },
     {
         "id": 132,
@@ -2575,7 +3230,12 @@
         "nativeNames": [
             "Mali"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "1,240,192 sq km",
+        "topTouristAttractions": {
+            "Djenne Mosque": "https://upload.wikimedia.org/wikipedia/commons/f/f1/MaliDjenn%C3%A9Mosqu%C3%A9e.JPG",
+            "Bandiagara Escarpment": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Telli_bandiagara.jpg"
+        }
     },
     {
         "id": 133,
@@ -2595,7 +3255,12 @@
         "nativeNames": [
             "M̧ajeļ"
         ],
-        "timezone": "UTC+12:00"
+        "timezone": "UTC+12:00",
+        "area": "181 sq km",
+        "topTouristAttractions": {
+            "Bikini Atoll": "https://upload.wikimedia.org/wikipedia/commons/0/09/Operation_Crossroads_Baker_Edit.jpg",
+            "Kwajalein Atoll": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Kwajalein_Atoll_2003-02-07_-_Landsat_7_-_30m.png"
+        }
     },
     {
         "id": 134,
@@ -2614,7 +3279,12 @@
         "nativeNames": [
             "موريتانيا"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "1,030,700 sq km",
+        "topTouristAttractions": {
+            "Banc d'Arguin National Park": "https://upload.wikimedia.org/wikipedia/commons/c/c1/The_Banc_d%27Arguin_National_Park%2C_Mauritania_%28cropped%29.jpg",
+            "Terjit Oasis": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Oasis_de_Tergit_%2802%29.jpg"
+        }
     },
     {
         "id": 135,
@@ -2634,7 +3304,12 @@
         "nativeNames": [
             "Maurice"
         ],
-        "timezone": "UTC+04:00"
+        "timezone": "UTC+04:00",
+        "area": "2,040 sq km",
+        "topTouristAttractions": {
+            "Black River Gorges National Park": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Mauritius_Black-River-Gorges-National-Park-01.jpg",
+            "Chamarel Seven Coloured Earth": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Mauritius_Seven-Coloured-Earths-01.jpg"
+        }
     },
     {
         "id": 136,
@@ -2653,7 +3328,12 @@
         "nativeNames": [
             "Micronesia"
         ],
-        "timezone": "UTC+10:00"
+        "timezone": "UTC+10:00",
+        "area": "702 sq km",
+        "topTouristAttractions": {
+            "Chuuk Lagoon": "https://upload.wikimedia.org/wikipedia/commons/8/83/Chuuk_Lagoon_Municipalities_map.jpg",
+            "Pohnpei": "https://upload.wikimedia.org/wikipedia/commons/8/86/Pohnpei_International_Airport.jpg"
+        }
     },
     {
         "id": 137,
@@ -2672,7 +3352,12 @@
         "nativeNames": [
             "Moldova"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "33,846 sq km",
+        "topTouristAttractions": {
+            "Milestii Mici": "https://upload.wikimedia.org/wikipedia/commons/2/21/Caves_Milestii_Mici_Moldavie.jpg",
+            "Orheiul Vechi": "https://upload.wikimedia.org/wikipedia/commons/a/af/Orhei_Vechi_08.JPG"
+        }
     },
     {
         "id": 138,
@@ -2691,7 +3376,12 @@
         "nativeNames": [
             "Монгол Улс"
         ],
-        "timezone": "UTC+08:00"
+        "timezone": "UTC+08:00",
+        "area": "1,564,116 sq km",
+        "topTouristAttractions": {
+            "Gobi Desert": "https://upload.wikimedia.org/wikipedia/commons/3/30/Gobi%2C_kompleks_Szambala_%2822%29.jpg",
+            "Khustain Nuruu National Park": "https://upload.wikimedia.org/wikipedia/commons/9/90/Mongolie_Reserve_Khustain_Nuruu_National_Park_%283%29.jpg"
+        }
     },
     {
         "id": 139,
@@ -2710,7 +3400,12 @@
         "nativeNames": [
             "Crna Gora"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "13,812 sq km",
+        "topTouristAttractions": {
+            "Kotor Old Town": "https://upload.wikimedia.org/wikipedia/commons/4/47/View_of_Kotor_old_town.jpg",
+            "Durmitor National Park": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Durmitor_mountains%2C_Montenegro.jpg"
+        }
     },
     {
         "id": 140,
@@ -2730,7 +3425,12 @@
         "nativeNames": [
             "المغرب"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "446,550 sq km",
+        "topTouristAttractions": {
+            "Marrakech Medina": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Oriental_hanging_lanterns._Souk_Haddadine%2C_Marrakech_Medina%2C_Morocco.jpg",
+            "Chefchaouen": "https://upload.wikimedia.org/wikipedia/commons/c/c7/2018_01_%28Blue%29_-_Chaouen.jpg"
+        }
     },
     {
         "id": 141,
@@ -2749,7 +3449,12 @@
         "nativeNames": [
             "Moçambique"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "801,590 sq km",
+        "topTouristAttractions": {
+            "Bazaruto Archipelago": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Bazaruto_island.jpg",
+            "Gorongosa National Park": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Gorongosa_Park_Gate.JPG"
+        }
     },
     {
         "id": 142,
@@ -2768,7 +3473,12 @@
         "nativeNames": [
             "မြန်မာ"
         ],
-        "timezone": "UTC+06:30"
+        "timezone": "UTC+06:30",
+        "area": "676,578 sq km",
+        "topTouristAttractions": {
+            "Shwedagon Pagoda": "https://upload.wikimedia.org/wikipedia/commons/b/b1/20160813_Shwedagon_Pagoda_9949_DxO.jpg",
+            "Inle Lake": "https://upload.wikimedia.org/wikipedia/commons/b/b0/20160805_Inle_Lake_7434.jpg"
+        }
     },
     {
         "id": 143,
@@ -2788,7 +3498,12 @@
         "nativeNames": [
             "Namibia"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "825,615 sq km",
+        "topTouristAttractions": {
+            "Sossusvlei": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Sossusvlei_Dune_Rippled_cropped.jpg",
+            "Etosha National Park": "https://upload.wikimedia.org/wikipedia/commons/0/02/Etosha_elefant.jpg"
+        }
     },
     {
         "id": 144,
@@ -2808,7 +3523,12 @@
         "nativeNames": [
             "Nauru"
         ],
-        "timezone": "UTC+12:00"
+        "timezone": "UTC+12:00",
+        "area": "21 sq km",
+        "topTouristAttractions": {
+            "Anibare Bay": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Living_on_a_Blue_Planet_-_Nauru.jpg",
+            "Buada Lagoon": "https://upload.wikimedia.org/wikipedia/commons/6/64/Buada_Lagoon%2C_Nauru_2007.jpg"
+        }
     },
     {
         "id": 145,
@@ -2827,7 +3547,12 @@
         "nativeNames": [
             "Nicaragua"
         ],
-        "timezone": "UTC-06:00"
+        "timezone": "UTC-06:00",
+        "area": "130,373 sq km",
+        "topTouristAttractions": {
+            "Granada": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_whole_Alhambra_Granada_Spain.jpg",
+            "Ometepe Island": "https://upload.wikimedia.org/wikipedia/commons/4/44/Ometepe_island_sts.jpg"
+        }
     },
     {
         "id": 146,
@@ -2846,7 +3571,12 @@
         "nativeNames": [
             "Niger"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "1,267,000 sq km",
+        "topTouristAttractions": {
+            "W National Park": "https://upload.wikimedia.org/wikipedia/commons/8/88/Kruger_National_Park_%28ZA%29%2C_Elefant_--_2024_--_0649.jpg",
+            "Agadez Mosque": "https://upload.wikimedia.org/wikipedia/commons/6/62/1997_277-9A_Agadez_mosque_cropped.jpg"
+        }
     },
     {
         "id": 147,
@@ -2865,7 +3595,12 @@
         "nativeNames": [
             "Nigeria"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "923,768 sq km",
+        "topTouristAttractions": {
+            "Zuma Rock": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Zuma_Rock.jpg",
+            "Yankari National Park": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Brown_Snake_Eagle_Circaetus_cinereus%2C_Yankari_Game_Reserve%2C_Nigeria.jpg"
+        }
     },
     {
         "id": 148,
@@ -2884,7 +3619,12 @@
         "nativeNames": [
             "조선민주주의인민공화국"
         ],
-        "timezone": "UTC+09:00"
+        "timezone": "UTC+09:00",
+        "area": "120,540 sq km",
+        "topTouristAttractions": {
+            "Mount Paektu": "https://upload.wikimedia.org/wikipedia/commons/3/31/Paektu-san.jpg",
+            "Kumsusan Palace of the Sun": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kumsusan_Palace_of_the_Sun_-_Panorama.jpg"
+        }
     },
     {
         "id": 149,
@@ -2903,7 +3643,12 @@
         "nativeNames": [
             "Северна Македонија"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "25,713 sq km",
+        "topTouristAttractions": {
+            "Ohrid": "https://upload.wikimedia.org/wikipedia/commons/8/83/Ohrid_from_Samuel%27s_Fortress_2.jpg",
+            "Matka Canyon": "https://upload.wikimedia.org/wikipedia/commons/d/da/Matka_%28%D0%9C%D0%B0%D1%82%D0%BA%D0%B0%29_canyon_-_dam.JPG"
+        }
     },
     {
         "id": 150,
@@ -2922,7 +3667,12 @@
         "nativeNames": [
             "عمان"
         ],
-        "timezone": "UTC+04:00"
+        "timezone": "UTC+04:00",
+        "area": "309,500 sq km",
+        "topTouristAttractions": {
+            "Sultan Qaboos Grand Mosque": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Sultan_Qaboos_Grand_Mosque_%281%29.jpg",
+            "Wadi Shab": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Wadi_Shab_1.jpg"
+        }
     },
     {
         "id": 151,
@@ -2942,7 +3692,12 @@
         "nativeNames": [
             "Belau"
         ],
-        "timezone": "UTC+09:00"
+        "timezone": "UTC+09:00",
+        "area": "459 sq km",
+        "topTouristAttractions": {
+            "Rock Islands": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Rock-Islands-Palau-1-2016-sea-view-Luka-Peternel.jpg",
+            "Jellyfish Lake": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Jellyfish_Lake_aerial_%28March_2008%29.jpg"
+        }
     },
     {
         "id": 152,
@@ -2962,7 +3717,12 @@
         "nativeNames": [
             "Panamá"
         ],
-        "timezone": "UTC-05:00"
+        "timezone": "UTC-05:00",
+        "area": "75,417 sq km",
+        "topTouristAttractions": {
+            "Panama Canal": "https://upload.wikimedia.org/wikipedia/commons/0/03/Aktie_Canal_de_Panama_1880.jpg",
+            "San Blas Islands": "https://upload.wikimedia.org/wikipedia/commons/0/0a/San_Blas_Islands.jpg"
+        }
     },
     {
         "id": 153,
@@ -2983,7 +3743,12 @@
         "nativeNames": [
             "Papua Niugini"
         ],
-        "timezone": "UTC+10:00"
+        "timezone": "UTC+10:00",
+        "area": "462,840 sq km",
+        "topTouristAttractions": {
+            "Kokoda Track": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Kokoda_track_Papua_New_Guinea.JPG",
+            "Tufi": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Tufi_Town.jpg"
+        }
     },
     {
         "id": 154,
@@ -3003,7 +3768,12 @@
         "nativeNames": [
             "Paraguay"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "406,752 sq km",
+        "topTouristAttractions": {
+            "Iguazu Falls": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Iguazu_D%C3%A9cembre_2007_-_Panorama_7.jpg",
+            "Asunción": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Downtown_Asuncion_091125.jpg"
+        }
     },
     {
         "id": 155,
@@ -3024,7 +3794,12 @@
         "nativeNames": [
             "Perú"
         ],
-        "timezone": "UTC-05:00"
+        "timezone": "UTC-05:00",
+        "area": "1,285,216 sq km",
+        "topTouristAttractions": {
+            "Machu Picchu": "https://upload.wikimedia.org/wikipedia/commons/6/62/80_-_Machu_Picchu_-_Juin_2009_-_edit.jpg",
+            "Amazon Rainforest": "https://upload.wikimedia.org/wikipedia/commons/5/58/Amazon_rainforest_%28orthographic_projection%29.svg"
+        }
     },
     {
         "id": 156,
@@ -3043,7 +3818,12 @@
         "nativeNames": [
             "قطر"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "11,586 sq km",
+        "topTouristAttractions": {
+            "The Pearl-Qatar": "https://upload.wikimedia.org/wikipedia/commons/8/84/Qatar_Cool_Plant_in_The_Pearl-Qatar.jpg",
+            "Souq Waqif": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Souq_Waqif%2C_Doha%2C_Catar%2C_2013-08-05%2C_DD_107.JPG"
+        }
     },
     {
         "id": 157,
@@ -3064,7 +3844,12 @@
         "nativeNames": [
             "Rwanda"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "26,338 sq km",
+        "topTouristAttractions": {
+            "Volcanoes National Park": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hawai%CA%BBi_Volcanoes_National_Park_%28DSC08881%29.jpg",
+            "Lake Kivu": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Amazing_Island_in_lake_Kivu.jpg"
+        }
     },
     {
         "id": 158,
@@ -3083,7 +3868,12 @@
         "nativeNames": [
             "Saint Kitts and Nevis"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "261 sq km",
+        "topTouristAttractions": {
+            "Brimstone Hill Fortress National Park": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Saint_Kitts_-_Brimstone_Hill_Fortress_04.JPG",
+            "Nevis Peak": "https://upload.wikimedia.org/wikipedia/commons/7/75/Nevispeak1.jpg"
+        }
     },
     {
         "id": 159,
@@ -3102,7 +3892,12 @@
         "nativeNames": [
             "Saint Lucia"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "616 sq km",
+        "topTouristAttractions": {
+            "Pitons": "https://upload.wikimedia.org/wikipedia/commons/d/dc/PetitPiton.JPG",
+            "Marigot Bay": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Marigot_Bay%2C_St._Lucia.jpg"
+        }
     },
     {
         "id": 160,
@@ -3121,7 +3916,12 @@
         "nativeNames": [
             "Saint Vincent and the Grenadines"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "389 sq km",
+        "topTouristAttractions": {
+            "Tobago Cays": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Tobago_Cays_%2849988711817%29.jpg",
+            "Bequia": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Admiralty_Bay_on_Bequia%2C_Saint_Vincent_and_the_Grenadines_%2849797161858%29.jpg"
+        }
     },
     {
         "id": 161,
@@ -3141,7 +3941,12 @@
         "nativeNames": [
             "Samoa"
         ],
-        "timezone": "UTC+13:00"
+        "timezone": "UTC+13:00",
+        "area": "2,842 sq km",
+        "topTouristAttractions": {
+            "To Sua Ocean Trench": "https://upload.wikimedia.org/wikipedia/commons/1/1d/The_part_where_the_ocean_enters_the_trench_To_Sua_Ocean_Trench_Samoa.jpg",
+            "Piula Cave Pool": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Piula_Cave_Pool%2C_Upolu_island%2C_Samoa.jpg"
+        }
     },
     {
         "id": 162,
@@ -3160,7 +3965,12 @@
         "nativeNames": [
             "São Tomé e Príncipe"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "964 sq km",
+        "topTouristAttractions": {
+            "Pico Cão Grande": "https://upload.wikimedia.org/wikipedia/commons/1/1b/2012SaoTome-302_%288042910990%29.jpg",
+            "Roca Agostinho Neto": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ro%C3%A7a_Agostinho_Neto_%28S%C3%A3o_Tom%C3%A9%29_%2814%29.jpg"
+        }
     },
     {
         "id": 163,
@@ -3179,7 +3989,12 @@
         "nativeNames": [
             "Sénégal"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "196,722 sq km",
+        "topTouristAttractions": {
+            "Goree Island": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Goree-island-senegal.png",
+            "Pink Lake": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Sunset_over_Pink_Lake%2C_Esperance%2C_January_2024_08.jpg"
+        }
     },
     {
         "id": 164,
@@ -3200,7 +4015,12 @@
         "nativeNames": [
             "Seychelles"
         ],
-        "timezone": "UTC+04:00"
+        "timezone": "UTC+04:00",
+        "area": "459 sq km",
+        "topTouristAttractions": {
+            "Anse Lazio": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Anse_Lazio_Praslin_Seychelles_2.jpg",
+            "Vallée de Mai": "https://upload.wikimedia.org/wikipedia/commons/2/29/Valle%C3%A9_de_mai2.jpg"
+        }
     },
     {
         "id": 165,
@@ -3219,7 +4039,12 @@
         "nativeNames": [
             "Sierra Leone"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "71,740 sq km",
+        "topTouristAttractions": {
+            "Tacugama Chimpanzee Sanctuary": "https://upload.wikimedia.org/wikipedia/commons/9/9d/West_African_Chimpanzee.jpg",
+            "Bunce Island": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Bunce_Island_1805.jpg"
+        }
     },
     {
         "id": 166,
@@ -3238,7 +4063,12 @@
         "nativeNames": [
             "Solomon Islands"
         ],
-        "timezone": "UTC+11:00"
+        "timezone": "UTC+11:00",
+        "area": "28,896 sq km",
+        "topTouristAttractions": {
+            "Marovo Lagoon": "https://upload.wikimedia.org/wikipedia/commons/8/89/Inter-Island_Transport_Marovo_Lagoon_%281992%29.jpg",
+            "Rennell Island": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Solomon_Islands_-_Rennel.PNG"
+        }
     },
     {
         "id": 167,
@@ -3258,7 +4088,12 @@
         "nativeNames": [
             "Soomaaliya"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "637,657 sq km",
+        "topTouristAttractions": {
+            "Laas Geel": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Laas_Geel.jpg",
+            "Mogadishu Lighthouse": "Cannot find images"
+        }
     },
     {
         "id": 168,
@@ -3277,7 +4112,12 @@
         "nativeNames": [
             "South Sudan"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "619,745 sq km",
+        "topTouristAttractions": {
+            "Boma National Park": "https://upload.wikimedia.org/wikipedia/commons/7/77/Assignment-_48-DPA-08-23-07_SOI_K_Yosemite_Event%29_Visit_of_Secretary_Dirk_Kempthorne_to_Yosemite_National_Park%2C_California%2C_%28where_he_joined_National_Park_Service_Director_Mary_Boma_-_DPLA_-_d3b3894ef3fe2dc7bacea375ab6052ef.JPG",
+            "Nimule National Park": "https://upload.wikimedia.org/wikipedia/commons/2/29/South_Sudan_rel_location_map.svg"
+        }
     },
     {
         "id": 169,
@@ -3298,7 +4138,12 @@
             "ශ්‍රී ලංකා",
             "இலங்கை"
         ],
-        "timezone": "UTC+05:30"
+        "timezone": "UTC+05:30",
+        "area": "65,610 sq km",
+        "topTouristAttractions": {
+            "Sigiriya": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Beauty_of_Sigiriya_by_Binuka.jpg",
+            "Ella": "https://upload.wikimedia.org/wikipedia/commons/d/d2/SL_Ella_asv2020-01_img22_View_from_Little_Adams_Peak.jpg"
+        }
     },
     {
         "id": 170,
@@ -3318,7 +4163,12 @@
         "nativeNames": [
             "السودان"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "1,886,068 sq km",
+        "topTouristAttractions": {
+            "Meroë Pyramids": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Meroe_Pyramids_-_33110830438.jpg",
+            "Nubian Desert": "https://upload.wikimedia.org/wikipedia/commons/2/22/Nubian_Desert_%288651154432%29.jpg"
+        }
     },
     {
         "id": 171,
@@ -3337,7 +4187,12 @@
         "nativeNames": [
             "Suriname"
         ],
-        "timezone": "UTC-03:00"
+        "timezone": "UTC-03:00",
+        "area": "163,820 sq km",
+        "topTouristAttractions": {
+            "Central Suriname Nature Reserve": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Amazon_jungle_from_above.jpg",
+            "Galibi Nature Reserve": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cara%C3%AFbendorp_bij_Galibi%2C_Suriname_Car%C3%A4ibenkampen_bij_Galibi_%28titel_op_object%29%2C_NG-1994-65-1-45-1.jpg"
+        }
     },
     {
         "id": 172,
@@ -3356,7 +4211,12 @@
         "nativeNames": [
             "سوريا"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "185,180 sq km",
+        "topTouristAttractions": {
+            "Palmyra": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Palmyra_03.jpg",
+            "Krak des Chevaliers": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Krak_des_Chevaliers_landscape_%28cropped%29.jpg"
+        }
     },
     {
         "id": 173,
@@ -3375,7 +4235,12 @@
         "nativeNames": [
             "Тоҷикистон"
         ],
-        "timezone": "UTC+05:00"
+        "timezone": "UTC+05:00",
+        "area": "143,100 sq km",
+        "topTouristAttractions": {
+            "Iskanderkul": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Iskanderkul_and_Fann_Mountains.jpg",
+            "Pamir Highway": "https://upload.wikimedia.org/wikipedia/commons/1/10/Pamir_Highway_Route.jpg"
+        }
     },
     {
         "id": 174,
@@ -3395,7 +4260,12 @@
         "nativeNames": [
             "Tanzania"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "945,087 sq km",
+        "topTouristAttractions": {
+            "Serengeti National Park": "https://upload.wikimedia.org/wikipedia/commons/6/6f/011_The_lion_king_Tryggve_in_the_Serengeti_National_Park_Photo_by_Giles_Laurent.jpg",
+            "Zanzibar": "https://upload.wikimedia.org/wikipedia/commons/8/84/Map_of_Zanzibar_Archipelago-en.svg"
+        }
     },
     {
         "id": 175,
@@ -3414,7 +4284,12 @@
         "nativeNames": [
             "Togo"
         ],
-        "timezone": "UTC+00:00"
+        "timezone": "UTC+00:00",
+        "area": "56,785 sq km",
+        "topTouristAttractions": {
+            "Koutammakou": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Alyssa_K._Barry_Koutammakou%2CTogo.jpg",
+            "Fazao-Malfakassa National Park": "https://upload.wikimedia.org/wikipedia/commons/5/55/Joshua_Tree_National_Park_2013.jpg"
+        }
     },
     {
         "id": 176,
@@ -3434,7 +4309,12 @@
         "nativeNames": [
             "Tonga"
         ],
-        "timezone": "UTC+13:00"
+        "timezone": "UTC+13:00",
+        "area": "747 sq km",
+        "topTouristAttractions": {
+            "Ha'amonga 'a Maui Trilithon": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Side_view_of_Ha%27amonga_%27a_Maui%2C_Mua%2C_Tonga%2C_c._1880_to_1889.jpg",
+            "Tongatapu": "https://upload.wikimedia.org/wikipedia/commons/6/67/TONGATABU_%26_EUA_ISLANDS.JPG"
+        }
     },
     {
         "id": 177,
@@ -3453,7 +4333,12 @@
         "nativeNames": [
             "Trinidad and Tobago"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "5,131 sq km",
+        "topTouristAttractions": {
+            "Maracas Beach": "https://upload.wikimedia.org/wikipedia/commons/9/90/Trinidad_street.jpg",
+            "Pigeon Point": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Vicinity_of_Pigeon_Point_Lighthouse.jpg"
+        }
     },
     {
         "id": 178,
@@ -3472,7 +4357,12 @@
         "nativeNames": [
             "تونس"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "163,610 sq km",
+        "topTouristAttractions": {
+            "Carthage": "https://upload.wikimedia.org/wikipedia/commons/2/24/Western_Mediterranean_territory%2C_150_BC.svg",
+            "Sidi Bou Said": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sidi_Bou_Said_Roundabout_Fountain_2010.jpg"
+        }
     },
     {
         "id": 179,
@@ -3491,7 +4381,12 @@
         "nativeNames": [
             "Türkmenistan"
         ],
-        "timezone": "UTC+05:00"
+        "timezone": "UTC+05:00",
+        "area": "491,210 sq km",
+        "topTouristAttractions": {
+            "Darvaza Gas Crater": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Darvasa_gas_crater_panorama_crop.jpg",
+            "Kow Ata Underground Lake": "https://upload.wikimedia.org/wikipedia/commons/5/58/Kow_Ata_Underground_Lake.jpg"
+        }
     },
     {
         "id": 180,
@@ -3512,7 +4407,12 @@
         "nativeNames": [
             "Tuvalu"
         ],
-        "timezone": "UTC+12:00"
+        "timezone": "UTC+12:00",
+        "area": "26 sq km",
+        "topTouristAttractions": {
+            "Funafuti Marine Conservation Area": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Tuvalu_-_Funafuti_-_Approach.jpg",
+            "Nanumea": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nanumea.jpg"
+        }
     },
     {
         "id": 181,
@@ -3532,7 +4432,12 @@
         "nativeNames": [
             "Uganda"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "241,038 sq km",
+        "topTouristAttractions": {
+            "Bwindi Impenetrable National Park": "https://upload.wikimedia.org/wikipedia/commons/2/2e/064_Mountain_gorilla_climbing_a_tree_at_Bwindi_Impenetrable_Forest_National_Park_%28crop%29_Photo_by_Giles_Laurent.jpg",
+            "Murchison Falls National Park": "https://upload.wikimedia.org/wikipedia/commons/9/99/Murchison_falls_water_flow_-_Murchison_Falls_National_Park.jpg"
+        }
     },
     {
         "id": 182,
@@ -3551,7 +4456,12 @@
         "nativeNames": [
             "الإمارات العربية المتحدة"
         ],
-        "timezone": "UTC+04:00"
+        "timezone": "UTC+04:00",
+        "area": "83,600 sq km",
+        "topTouristAttractions": {
+            "Burj Khalifa": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Burj_dubai_3.11.08.jpg",
+            "Sheikh Zayed Grand Mosque": "https://upload.wikimedia.org/wikipedia/commons/4/47/Sheikh_Zayed_Grand_Mosque_%40_Abu_Dhabi_-_16043353042.jpg"
+        }
     },
     {
         "id": 183,
@@ -3570,7 +4480,12 @@
         "nativeNames": [
             "Uruguay"
         ],
-        "timezone": "UTC-03:00"
+        "timezone": "UTC-03:00",
+        "area": "176,215 sq km",
+        "topTouristAttractions": {
+            "Punta del Este": "https://upload.wikimedia.org/wikipedia/commons/a/a4/19%C2%B0_International_Jazz_Festival_of_Punta_del_Este_-_150111-1924-jikatu_%2816077494677%29.jpg",
+            "Colonia del Sacramento": "https://upload.wikimedia.org/wikipedia/commons/4/42/Colonia_de_Sacramento.jpg"
+        }
     },
     {
         "id": 184,
@@ -3589,7 +4504,12 @@
         "nativeNames": [
             "Oʻzbekiston"
         ],
-        "timezone": "UTC+05:00"
+        "timezone": "UTC+05:00",
+        "area": "448,978 sq km",
+        "topTouristAttractions": {
+            "Registan": "https://upload.wikimedia.org/wikipedia/commons/4/46/Registan_01.jpg",
+            "Bukhara": "https://upload.wikimedia.org/wikipedia/commons/3/39/Kalon-Ensemble_Buchara.jpg"
+        }
     },
     {
         "id": 185,
@@ -3610,7 +4530,12 @@
         "nativeNames": [
             "Vanuatu"
         ],
-        "timezone": "UTC+11:00"
+        "timezone": "UTC+11:00",
+        "area": "12,189 sq km",
+        "topTouristAttractions": {
+            "Mount Yasur": "https://upload.wikimedia.org/wikipedia/commons/8/85/Lava_trails_at_Mount_Yasur_Volcano%2C_Tanna%2C_Vanuatu_%2849181693888%29.jpg",
+            "Millenium Cave": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Nimbu_Bhoj_cave%2C_harper.jpg"
+        }
     },
     {
         "id": 186,
@@ -3629,7 +4554,12 @@
         "nativeNames": [
             "Venezuela"
         ],
-        "timezone": "UTC-04:00"
+        "timezone": "UTC-04:00",
+        "area": "916,445 sq km",
+        "topTouristAttractions": {
+            "Angel Falls": "https://upload.wikimedia.org/wikipedia/commons/1/19/Salto_Angel_Dry_Season.jpg",
+            "Los Roques Archipelago": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Bequeve_Islands%2C_Los_Roques_Archipelago%2C_Venezuela_1.png"
+        }
     },
     {
         "id": 187,
@@ -3648,7 +4578,12 @@
         "nativeNames": [
             "اليَمَن"
         ],
-        "timezone": "UTC+03:00"
+        "timezone": "UTC+03:00",
+        "area": "527,968 sq km",
+        "topTouristAttractions": {
+            "Shibam": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Shibam_Wadi_Hadhramaut_Yemen.jpg",
+            "Socotra": "https://upload.wikimedia.org/wikipedia/commons/2/24/Dragonblood_tree_in_Socotra_2.jpg"
+        }
     },
     {
         "id": 188,
@@ -3667,7 +4602,12 @@
         "nativeNames": [
             "Zambia"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "752,612 sq km",
+        "topTouristAttractions": {
+            "Victoria Falls": "https://upload.wikimedia.org/wikipedia/commons/8/81/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_30-34_PAN.jpg",
+            "South Luangwa National Park": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Loxodonta_africana_South_Luangwa_National_Park_%281%29.jpg"
+        }
     },
     {
         "id": 189,
@@ -3688,7 +4628,12 @@
         "nativeNames": [
             "Zimbabwe"
         ],
-        "timezone": "UTC+02:00"
+        "timezone": "UTC+02:00",
+        "area": "390,757 sq km",
+        "topTouristAttractions": {
+            "Victoria Falls": "https://upload.wikimedia.org/wikipedia/commons/8/81/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_30-34_PAN.jpg",
+            "Great Zimbabwe": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Great-zim-aerial-looking-West.JPG"
+        }
     },
     {
         "id": 190,
@@ -3707,7 +4652,12 @@
         "nativeNames": [
             "Shqipëria"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "28,748 sq km",
+        "topTouristAttractions": {
+            "Butrint": "https://upload.wikimedia.org/wikipedia/commons/9/94/Butrint%2C_Albania.jpg",
+            "Gjirokastër": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Gjirokast%D1%91r_%28by_Pudelek%29.JPG"
+        }
     },
     {
         "id": 191,
@@ -3726,7 +4676,12 @@
         "nativeNames": [
             "Bahamas"
         ],
-        "timezone": "UTC-05:00"
+        "timezone": "UTC-05:00",
+        "area": "13,878 sq km",
+        "topTouristAttractions": {
+            "Atlantis Paradise Island": "https://upload.wikimedia.org/wikipedia/commons/1/10/The_Royal_Tower_Atlantis_Paradise_Island_photo_D_Ramey_Logan.jpg",
+            "Exuma Cays Land and Sea Park": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Exuma_Cays_Land_and_Sea_Park_2.jpeg"
+        }
     },
     {
         "id": 192,
@@ -3745,7 +4700,12 @@
         "nativeNames": [
             "Cabo Verde"
         ],
-        "timezone": "UTC-01:00"
+        "timezone": "UTC-01:00",
+        "area": "4,033 sq km",
+        "topTouristAttractions": {
+            "Fogo Island": "https://upload.wikimedia.org/wikipedia/commons/7/77/Fogo_S%C3%A3o_Filipe_shop.jpg",
+            "Sal Island": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Cape_Verde_Sal_Phoenix_canariensis_Riu.jpg"
+        }
     },
     {
         "id": 193,
@@ -3764,7 +4724,12 @@
         "nativeNames": [
             "საქართველო"
         ],
-        "timezone": "UTC+04:00"
+        "timezone": "UTC+04:00",
+        "area": "69,700 sq km",
+        "topTouristAttractions": {
+            "Tbilisi Old Town": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Tbilisi%2C_Old_town%2C_Georgia.jpg",
+            "Svetitskhoveli Cathedral": "https://upload.wikimedia.org/wikipedia/commons/5/59/Mtskheta_and_Svetitskhoveli_Cathedral_3x2.jpg"
+        }
     },
     {
         "id": 194,
@@ -3783,7 +4748,12 @@
         "nativeNames": [
             "Србија"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "77,474 sq km",
+        "topTouristAttractions": {
+            "Belgrade Fortress": "https://upload.wikimedia.org/wikipedia/commons/2/26/Belgrade_Fortress_20180227.jpg",
+            "Niš Fortress": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Ni%C5%A1_Fortress%2C_Ni%C5%A1%2C_Serbia.jpg"
+        }
     },
     {
         "id": 195,
@@ -3802,7 +4772,12 @@
         "nativeNames": [
             "République démocratique du Congo"
         ],
-        "timezone": "UTC+01:00"
+        "timezone": "UTC+01:00",
+        "area": "2,344,858 sq km",
+        "topTouristAttractions": {
+            "Virunga National Park": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Virunga_National_Park_Landscape.jpg",
+            "Garamba National Park": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Elephants_in_garamba_national_park.jpg"
+        }
     },
     {
         "id": 196,
@@ -3822,6 +4797,11 @@
             "臺灣",
             "台湾"
         ],
-        "timezone": "UTC+08:00"
+        "timezone": "UTC+08:00",
+        "area": "36,193 sq km",
+        "topTouristAttractions": {
+            "Taroko National Park": "https://upload.wikimedia.org/wikipedia/commons/1/10/Taroko_National_Park%EF%BC%8Bby_Steven%EF%BC%8B9287.jpg",
+            "Sun Moon Lake": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sun-Moon-Lake-Taiwan.jpg"
+        }
     }
 ]
