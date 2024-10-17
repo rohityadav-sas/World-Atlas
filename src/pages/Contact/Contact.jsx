@@ -1,11 +1,17 @@
 import { useForm } from "react-hook-form";
 import Input from "../../components/Input";
+import { useSubmit } from "react-router-dom";
 
 export default function Contact() {
     const { register, handleSubmit, formState: { errors } } = useForm();
+    const submit = useSubmit();
 
     const onSubmit = (data) => {
-        console.log("Form submitted:", data);
+        submit(data, {
+            method: 'POST',
+            action: '/contact',
+            encType: 'application/json',
+        });
     };
 
     return (
