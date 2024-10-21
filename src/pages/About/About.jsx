@@ -25,7 +25,7 @@ export default function About() {
 
     React.useEffect(() => {
         loadMoreCountries();
-    }, [inView]);
+    }, [inView,loadMoreCountries]);
 
     return (
         <div className="flex w-full flex-col relative sm:p-clamp-sm pt-clamp gap-6">
