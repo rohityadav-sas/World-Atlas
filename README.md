@@ -52,7 +52,7 @@ Explore the world, one country at a time! This React app provides detailed infor
     bun install
     ```
 
-3. Start the server
+3. Start the server and navigate to localhost:5173 in your browser to see the app in action.
     ```sh
     bun dev
     ```
